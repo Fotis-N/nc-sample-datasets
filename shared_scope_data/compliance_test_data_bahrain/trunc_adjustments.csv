@@ -1,0 +1,1000 @@
+row,branch_code,branch_name,employer_nationality,year,month,employees_nationality,adjustment_type,count_of_adjustments
+0,5541426733002, NexaCo,SAUDI ARABIA,2022,1,BAHRAIN,Delete employment period,4
+1,5541426733002, NexaCo,SAUDI ARABIA,2022,1,BAHRAIN,Delayed employment initiation,3
+2,5541426733002, NexaCo,SAUDI ARABIA,2022,1,BAHRAIN,Delayed earnings adjustment,4
+3,5541426733002, NexaCo,SAUDI ARABIA,2022,1,BAHRAIN,Delayed Start or end date adjustment,2
+4,5541426733002, NexaCo,SAUDI ARABIA,2022,1,BAHRAIN,Delayed employment terminations,1
+5,5541426733002, NexaCo,SAUDI ARABIA,2022,2,BAHRAIN,Delete employment period,3
+6,5541426733002, NexaCo,SAUDI ARABIA,2022,2,BAHRAIN,Delayed employment initiation,5
+7,5541426733002, NexaCo,SAUDI ARABIA,2022,2,BAHRAIN,Delayed earnings adjustment,4
+8,5541426733002, NexaCo,SAUDI ARABIA,2022,2,BAHRAIN,Delayed Start or end date adjustment,4
+9,5541426733002, NexaCo,SAUDI ARABIA,2022,2,BAHRAIN,Delayed employment terminations,1
+10,5541426733002, NexaCo,SAUDI ARABIA,2022,3,BAHRAIN,Delete employment period,5
+11,5541426733002, NexaCo,SAUDI ARABIA,2022,3,BAHRAIN,Delayed employment initiation,3
+12,5541426733002, NexaCo,SAUDI ARABIA,2022,3,BAHRAIN,Delayed earnings adjustment,1
+13,5541426733002, NexaCo,SAUDI ARABIA,2022,3,BAHRAIN,Delayed Start or end date adjustment,3
+14,5541426733002, NexaCo,SAUDI ARABIA,2022,3,BAHRAIN,Delayed employment terminations,1
+15,5541426733002, NexaCo,SAUDI ARABIA,2022,4,BAHRAIN,Delete employment period,4
+16,5541426733002, NexaCo,SAUDI ARABIA,2022,4,BAHRAIN,Delayed employment initiation,3
+17,5541426733002, NexaCo,SAUDI ARABIA,2022,4,BAHRAIN,Delayed earnings adjustment,5
+18,5541426733002, NexaCo,SAUDI ARABIA,2022,4,BAHRAIN,Delayed Start or end date adjustment,3
+19,5541426733002, NexaCo,SAUDI ARABIA,2022,4,BAHRAIN,Delayed employment terminations,1
+20,5541426733002, NexaCo,SAUDI ARABIA,2022,5,BAHRAIN,Delete employment period,2
+21,5541426733002, NexaCo,SAUDI ARABIA,2022,5,BAHRAIN,Delayed employment initiation,3
+22,5541426733002, NexaCo,SAUDI ARABIA,2022,5,BAHRAIN,Delayed earnings adjustment,5
+23,5541426733002, NexaCo,SAUDI ARABIA,2022,5,BAHRAIN,Delayed Start or end date adjustment,3
+24,5541426733002, NexaCo,SAUDI ARABIA,2022,5,BAHRAIN,Delayed employment terminations,1
+25,5541426733002, NexaCo,SAUDI ARABIA,2022,6,BAHRAIN,Delete employment period,2
+26,5541426733002, NexaCo,SAUDI ARABIA,2022,6,BAHRAIN,Delayed employment initiation,3
+27,5541426733002, NexaCo,SAUDI ARABIA,2022,6,BAHRAIN,Delayed earnings adjustment,3
+28,5541426733002, NexaCo,SAUDI ARABIA,2022,6,BAHRAIN,Delayed Start or end date adjustment,5
+29,5541426733002, NexaCo,SAUDI ARABIA,2022,6,BAHRAIN,Delayed employment terminations,5
+30,5541426733002, NexaCo,SAUDI ARABIA,2022,7,BAHRAIN,Delete employment period,0
+31,5541426733002, NexaCo,SAUDI ARABIA,2022,7,BAHRAIN,Delayed employment initiation,2
+32,5541426733002, NexaCo,SAUDI ARABIA,2022,7,BAHRAIN,Delayed earnings adjustment,2
+33,5541426733002, NexaCo,SAUDI ARABIA,2022,7,BAHRAIN,Delayed Start or end date adjustment,5
+34,5541426733002, NexaCo,SAUDI ARABIA,2022,7,BAHRAIN,Delayed employment terminations,5
+35,5541426733002, NexaCo,SAUDI ARABIA,2022,8,BAHRAIN,Delete employment period,4
+36,5541426733002, NexaCo,SAUDI ARABIA,2022,8,BAHRAIN,Delayed employment initiation,4
+37,5541426733002, NexaCo,SAUDI ARABIA,2022,8,BAHRAIN,Delayed earnings adjustment,0
+38,5541426733002, NexaCo,SAUDI ARABIA,2022,8,BAHRAIN,Delayed Start or end date adjustment,5
+39,5541426733002, NexaCo,SAUDI ARABIA,2022,8,BAHRAIN,Delayed employment terminations,4
+40,5541426733002, NexaCo,SAUDI ARABIA,2022,9,BAHRAIN,Delete employment period,1
+41,5541426733002, NexaCo,SAUDI ARABIA,2022,9,BAHRAIN,Delayed employment initiation,2
+42,5541426733002, NexaCo,SAUDI ARABIA,2022,9,BAHRAIN,Delayed earnings adjustment,5
+43,5541426733002, NexaCo,SAUDI ARABIA,2022,9,BAHRAIN,Delayed Start or end date adjustment,1
+44,5541426733002, NexaCo,SAUDI ARABIA,2022,9,BAHRAIN,Delayed employment terminations,5
+45,5541426733002, NexaCo,SAUDI ARABIA,2022,10,BAHRAIN,Delete employment period,1
+46,5541426733002, NexaCo,SAUDI ARABIA,2022,10,BAHRAIN,Delayed employment initiation,5
+47,5541426733002, NexaCo,SAUDI ARABIA,2022,10,BAHRAIN,Delayed earnings adjustment,3
+48,5541426733002, NexaCo,SAUDI ARABIA,2022,10,BAHRAIN,Delayed Start or end date adjustment,0
+49,5541426733002, NexaCo,SAUDI ARABIA,2022,10,BAHRAIN,Delayed employment terminations,1
+50,5541426733002, NexaCo,SAUDI ARABIA,2022,11,BAHRAIN,Delete employment period,5
+51,5541426733002, NexaCo,SAUDI ARABIA,2022,11,BAHRAIN,Delayed employment initiation,4
+52,5541426733002, NexaCo,SAUDI ARABIA,2022,11,BAHRAIN,Delayed earnings adjustment,5
+53,5541426733002, NexaCo,SAUDI ARABIA,2022,11,BAHRAIN,Delayed Start or end date adjustment,0
+54,5541426733002, NexaCo,SAUDI ARABIA,2022,11,BAHRAIN,Delayed employment terminations,3
+55,5541426733002, NexaCo,SAUDI ARABIA,2022,12,BAHRAIN,Delete employment period,1
+56,5541426733002, NexaCo,SAUDI ARABIA,2022,12,BAHRAIN,Delayed employment initiation,2
+57,5541426733002, NexaCo,SAUDI ARABIA,2022,12,BAHRAIN,Delayed earnings adjustment,0
+58,5541426733002, NexaCo,SAUDI ARABIA,2022,12,BAHRAIN,Delayed Start or end date adjustment,1
+59,5541426733002, NexaCo,SAUDI ARABIA,2022,12,BAHRAIN,Delayed employment terminations,4
+60,5541426733002, NexaCo,SAUDI ARABIA,2023,1,BAHRAIN,Delete employment period,3
+61,5541426733002, NexaCo,SAUDI ARABIA,2023,1,BAHRAIN,Delayed employment initiation,3
+62,5541426733002, NexaCo,SAUDI ARABIA,2023,1,BAHRAIN,Delayed earnings adjustment,4
+63,5541426733002, NexaCo,SAUDI ARABIA,2023,1,BAHRAIN,Delayed Start or end date adjustment,0
+64,5541426733002, NexaCo,SAUDI ARABIA,2023,1,BAHRAIN,Delayed employment terminations,4
+65,5541426733002, NexaCo,SAUDI ARABIA,2023,2,BAHRAIN,Delete employment period,1
+66,5541426733002, NexaCo,SAUDI ARABIA,2023,2,BAHRAIN,Delayed employment initiation,5
+67,5541426733002, NexaCo,SAUDI ARABIA,2023,2,BAHRAIN,Delayed earnings adjustment,3
+68,5541426733002, NexaCo,SAUDI ARABIA,2023,2,BAHRAIN,Delayed Start or end date adjustment,4
+69,5541426733002, NexaCo,SAUDI ARABIA,2023,2,BAHRAIN,Delayed employment terminations,5
+70,5541426733002, NexaCo,SAUDI ARABIA,2023,3,BAHRAIN,Delete employment period,2
+71,5541426733002, NexaCo,SAUDI ARABIA,2023,3,BAHRAIN,Delayed employment initiation,1
+72,5541426733002, NexaCo,SAUDI ARABIA,2023,3,BAHRAIN,Delayed earnings adjustment,4
+73,5541426733002, NexaCo,SAUDI ARABIA,2023,3,BAHRAIN,Delayed Start or end date adjustment,2
+74,5541426733002, NexaCo,SAUDI ARABIA,2023,3,BAHRAIN,Delayed employment terminations,3
+75,5541426733002, NexaCo,SAUDI ARABIA,2023,4,BAHRAIN,Delete employment period,1
+76,5541426733002, NexaCo,SAUDI ARABIA,2023,4,BAHRAIN,Delayed employment initiation,1
+77,5541426733002, NexaCo,SAUDI ARABIA,2023,4,BAHRAIN,Delayed earnings adjustment,0
+78,5541426733002, NexaCo,SAUDI ARABIA,2023,4,BAHRAIN,Delayed Start or end date adjustment,0
+79,5541426733002, NexaCo,SAUDI ARABIA,2023,4,BAHRAIN,Delayed employment terminations,0
+80,5541426733002, NexaCo,SAUDI ARABIA,2023,5,BAHRAIN,Delete employment period,3
+81,5541426733002, NexaCo,SAUDI ARABIA,2023,5,BAHRAIN,Delayed employment initiation,1
+82,5541426733002, NexaCo,SAUDI ARABIA,2023,5,BAHRAIN,Delayed earnings adjustment,2
+83,5541426733002, NexaCo,SAUDI ARABIA,2023,5,BAHRAIN,Delayed Start or end date adjustment,5
+84,5541426733002, NexaCo,SAUDI ARABIA,2023,5,BAHRAIN,Delayed employment terminations,1
+85,5541426733002, NexaCo,SAUDI ARABIA,2023,6,BAHRAIN,Delete employment period,5
+86,5541426733002, NexaCo,SAUDI ARABIA,2023,6,BAHRAIN,Delayed employment initiation,1
+87,5541426733002, NexaCo,SAUDI ARABIA,2023,6,BAHRAIN,Delayed earnings adjustment,2
+88,5541426733002, NexaCo,SAUDI ARABIA,2023,6,BAHRAIN,Delayed Start or end date adjustment,2
+89,5541426733002, NexaCo,SAUDI ARABIA,2023,6,BAHRAIN,Delayed employment terminations,2
+90,5541426733002, NexaCo,SAUDI ARABIA,2023,7,BAHRAIN,Delete employment period,5
+91,5541426733002, NexaCo,SAUDI ARABIA,2023,7,BAHRAIN,Delayed employment initiation,1
+92,5541426733002, NexaCo,SAUDI ARABIA,2023,7,BAHRAIN,Delayed earnings adjustment,3
+93,5541426733002, NexaCo,SAUDI ARABIA,2023,7,BAHRAIN,Delayed Start or end date adjustment,0
+94,5541426733002, NexaCo,SAUDI ARABIA,2023,7,BAHRAIN,Delayed employment terminations,2
+95,5541426733002, NexaCo,SAUDI ARABIA,2023,8,BAHRAIN,Delete employment period,2
+96,5541426733002, NexaCo,SAUDI ARABIA,2023,8,BAHRAIN,Delayed employment initiation,4
+97,5541426733002, NexaCo,SAUDI ARABIA,2023,8,BAHRAIN,Delayed earnings adjustment,3
+98,5541426733002, NexaCo,SAUDI ARABIA,2023,8,BAHRAIN,Delayed Start or end date adjustment,5
+99,5541426733002, NexaCo,SAUDI ARABIA,2023,8,BAHRAIN,Delayed employment terminations,4
+100,5541426733002, NexaCo,SAUDI ARABIA,2023,9,BAHRAIN,Delete employment period,5
+101,5541426733002, NexaCo,SAUDI ARABIA,2023,9,BAHRAIN,Delayed employment initiation,5
+102,5541426733002, NexaCo,SAUDI ARABIA,2023,9,BAHRAIN,Delayed earnings adjustment,2
+103,5541426733002, NexaCo,SAUDI ARABIA,2023,9,BAHRAIN,Delayed Start or end date adjustment,0
+104,5541426733002, NexaCo,SAUDI ARABIA,2023,9,BAHRAIN,Delayed employment terminations,4
+105,5541426733002, NexaCo,SAUDI ARABIA,2023,10,BAHRAIN,Delete employment period,0
+106,5541426733002, NexaCo,SAUDI ARABIA,2023,10,BAHRAIN,Delayed employment initiation,3
+107,5541426733002, NexaCo,SAUDI ARABIA,2023,10,BAHRAIN,Delayed earnings adjustment,0
+108,5541426733002, NexaCo,SAUDI ARABIA,2023,10,BAHRAIN,Delayed Start or end date adjustment,3
+109,5541426733002, NexaCo,SAUDI ARABIA,2023,10,BAHRAIN,Delayed employment terminations,4
+110,5541426733002, NexaCo,SAUDI ARABIA,2023,11,BAHRAIN,Delete employment period,1
+111,5541426733002, NexaCo,SAUDI ARABIA,2023,11,BAHRAIN,Delayed employment initiation,1
+112,5541426733002, NexaCo,SAUDI ARABIA,2023,11,BAHRAIN,Delayed earnings adjustment,4
+113,5541426733002, NexaCo,SAUDI ARABIA,2023,11,BAHRAIN,Delayed Start or end date adjustment,4
+114,5541426733002, NexaCo,SAUDI ARABIA,2023,11,BAHRAIN,Delayed employment terminations,3
+115,5541426733002, NexaCo,SAUDI ARABIA,2023,12,BAHRAIN,Delete employment period,3
+116,5541426733002, NexaCo,SAUDI ARABIA,2023,12,BAHRAIN,Delayed employment initiation,0
+117,5541426733002, NexaCo,SAUDI ARABIA,2023,12,BAHRAIN,Delayed earnings adjustment,4
+118,5541426733002, NexaCo,SAUDI ARABIA,2023,12,BAHRAIN,Delayed Start or end date adjustment,2
+119,5541426733002, NexaCo,SAUDI ARABIA,2023,12,BAHRAIN,Delayed employment terminations,0
+120,5941279296001, LuminaX,BAHRAIN,2022,1,BAHRAIN,Delete employment period,3
+121,5941279296001, LuminaX,BAHRAIN,2022,1,BAHRAIN,Delayed employment initiation,0
+122,5941279296001, LuminaX,BAHRAIN,2022,1,BAHRAIN,Delayed earnings adjustment,5
+123,5941279296001, LuminaX,BAHRAIN,2022,1,BAHRAIN,Delayed Start or end date adjustment,1
+124,5941279296001, LuminaX,BAHRAIN,2022,1,BAHRAIN,Delayed employment terminations,0
+125,5941279296001, LuminaX,BAHRAIN,2022,1,UNITED ARAB EMIRATES,Delete employment period,4
+126,5941279296001, LuminaX,BAHRAIN,2022,1,UNITED ARAB EMIRATES,Delayed employment initiation,5
+127,5941279296001, LuminaX,BAHRAIN,2022,1,UNITED ARAB EMIRATES,Delayed earnings adjustment,5
+128,5941279296001, LuminaX,BAHRAIN,2022,1,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,5
+129,5941279296001, LuminaX,BAHRAIN,2022,1,UNITED ARAB EMIRATES,Delayed employment terminations,3
+130,5941279296001, LuminaX,BAHRAIN,2022,1,INDIA,Delete employment period,0
+131,5941279296001, LuminaX,BAHRAIN,2022,1,INDIA,Delayed employment initiation,3
+132,5941279296001, LuminaX,BAHRAIN,2022,1,INDIA,Delayed earnings adjustment,0
+133,5941279296001, LuminaX,BAHRAIN,2022,1,INDIA,Delayed Start or end date adjustment,1
+134,5941279296001, LuminaX,BAHRAIN,2022,1,INDIA,Delayed employment terminations,1
+135,5941279296001, LuminaX,BAHRAIN,2022,1,KUWAIT,Delete employment period,0
+136,5941279296001, LuminaX,BAHRAIN,2022,1,KUWAIT,Delayed employment initiation,1
+137,5941279296001, LuminaX,BAHRAIN,2022,1,KUWAIT,Delayed earnings adjustment,0
+138,5941279296001, LuminaX,BAHRAIN,2022,1,KUWAIT,Delayed Start or end date adjustment,2
+139,5941279296001, LuminaX,BAHRAIN,2022,1,KUWAIT,Delayed employment terminations,2
+140,5941279296001, LuminaX,BAHRAIN,2022,1,OMAN,Delete employment period,3
+141,5941279296001, LuminaX,BAHRAIN,2022,1,OMAN,Delayed employment initiation,0
+142,5941279296001, LuminaX,BAHRAIN,2022,1,OMAN,Delayed earnings adjustment,5
+143,5941279296001, LuminaX,BAHRAIN,2022,1,OMAN,Delayed Start or end date adjustment,1
+144,5941279296001, LuminaX,BAHRAIN,2022,1,OMAN,Delayed employment terminations,2
+145,5941279296001, LuminaX,BAHRAIN,2022,1,PAKISTAN,Delete employment period,0
+146,5941279296001, LuminaX,BAHRAIN,2022,1,PAKISTAN,Delayed employment initiation,5
+147,5941279296001, LuminaX,BAHRAIN,2022,1,PAKISTAN,Delayed earnings adjustment,3
+148,5941279296001, LuminaX,BAHRAIN,2022,1,PAKISTAN,Delayed Start or end date adjustment,2
+149,5941279296001, LuminaX,BAHRAIN,2022,1,PAKISTAN,Delayed employment terminations,5
+150,5941279296001, LuminaX,BAHRAIN,2022,1,PHILIPPINES,Delete employment period,4
+151,5941279296001, LuminaX,BAHRAIN,2022,1,PHILIPPINES,Delayed employment initiation,2
+152,5941279296001, LuminaX,BAHRAIN,2022,1,PHILIPPINES,Delayed earnings adjustment,5
+153,5941279296001, LuminaX,BAHRAIN,2022,1,PHILIPPINES,Delayed Start or end date adjustment,2
+154,5941279296001, LuminaX,BAHRAIN,2022,1,PHILIPPINES,Delayed employment terminations,4
+155,5941279296001, LuminaX,BAHRAIN,2022,1,QATAR,Delete employment period,2
+156,5941279296001, LuminaX,BAHRAIN,2022,1,QATAR,Delayed employment initiation,1
+157,5941279296001, LuminaX,BAHRAIN,2022,1,QATAR,Delayed earnings adjustment,4
+158,5941279296001, LuminaX,BAHRAIN,2022,1,QATAR,Delayed Start or end date adjustment,3
+159,5941279296001, LuminaX,BAHRAIN,2022,1,QATAR,Delayed employment terminations,5
+160,5941279296001, LuminaX,BAHRAIN,2022,1,SAUDI ARABIA,Delete employment period,4
+161,5941279296001, LuminaX,BAHRAIN,2022,1,SAUDI ARABIA,Delayed employment initiation,2
+162,5941279296001, LuminaX,BAHRAIN,2022,1,SAUDI ARABIA,Delayed earnings adjustment,5
+163,5941279296001, LuminaX,BAHRAIN,2022,1,SAUDI ARABIA,Delayed Start or end date adjustment,0
+164,5941279296001, LuminaX,BAHRAIN,2022,1,SAUDI ARABIA,Delayed employment terminations,4
+165,5941279296001, LuminaX,BAHRAIN,2022,1,BANGLADESH,Delete employment period,4
+166,5941279296001, LuminaX,BAHRAIN,2022,1,BANGLADESH,Delayed employment initiation,1
+167,5941279296001, LuminaX,BAHRAIN,2022,1,BANGLADESH,Delayed earnings adjustment,2
+168,5941279296001, LuminaX,BAHRAIN,2022,1,BANGLADESH,Delayed Start or end date adjustment,5
+169,5941279296001, LuminaX,BAHRAIN,2022,1,BANGLADESH,Delayed employment terminations,2
+170,5941279296001, LuminaX,BAHRAIN,2022,2,BAHRAIN,Delete employment period,1
+171,5941279296001, LuminaX,BAHRAIN,2022,2,BAHRAIN,Delayed employment initiation,2
+172,5941279296001, LuminaX,BAHRAIN,2022,2,BAHRAIN,Delayed earnings adjustment,4
+173,5941279296001, LuminaX,BAHRAIN,2022,2,BAHRAIN,Delayed Start or end date adjustment,3
+174,5941279296001, LuminaX,BAHRAIN,2022,2,BAHRAIN,Delayed employment terminations,0
+175,5941279296001, LuminaX,BAHRAIN,2022,2,UNITED ARAB EMIRATES,Delete employment period,0
+176,5941279296001, LuminaX,BAHRAIN,2022,2,UNITED ARAB EMIRATES,Delayed employment initiation,1
+177,5941279296001, LuminaX,BAHRAIN,2022,2,UNITED ARAB EMIRATES,Delayed earnings adjustment,5
+178,5941279296001, LuminaX,BAHRAIN,2022,2,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,4
+179,5941279296001, LuminaX,BAHRAIN,2022,2,UNITED ARAB EMIRATES,Delayed employment terminations,1
+180,5941279296001, LuminaX,BAHRAIN,2022,2,INDIA,Delete employment period,4
+181,5941279296001, LuminaX,BAHRAIN,2022,2,INDIA,Delayed employment initiation,3
+182,5941279296001, LuminaX,BAHRAIN,2022,2,INDIA,Delayed earnings adjustment,2
+183,5941279296001, LuminaX,BAHRAIN,2022,2,INDIA,Delayed Start or end date adjustment,5
+184,5941279296001, LuminaX,BAHRAIN,2022,2,INDIA,Delayed employment terminations,5
+185,5941279296001, LuminaX,BAHRAIN,2022,2,KUWAIT,Delete employment period,0
+186,5941279296001, LuminaX,BAHRAIN,2022,2,KUWAIT,Delayed employment initiation,4
+187,5941279296001, LuminaX,BAHRAIN,2022,2,KUWAIT,Delayed earnings adjustment,1
+188,5941279296001, LuminaX,BAHRAIN,2022,2,KUWAIT,Delayed Start or end date adjustment,1
+189,5941279296001, LuminaX,BAHRAIN,2022,2,KUWAIT,Delayed employment terminations,4
+190,5941279296001, LuminaX,BAHRAIN,2022,2,OMAN,Delete employment period,5
+191,5941279296001, LuminaX,BAHRAIN,2022,2,OMAN,Delayed employment initiation,5
+192,5941279296001, LuminaX,BAHRAIN,2022,2,OMAN,Delayed earnings adjustment,5
+193,5941279296001, LuminaX,BAHRAIN,2022,2,OMAN,Delayed Start or end date adjustment,2
+194,5941279296001, LuminaX,BAHRAIN,2022,2,OMAN,Delayed employment terminations,4
+195,5941279296001, LuminaX,BAHRAIN,2022,2,PAKISTAN,Delete employment period,3
+196,5941279296001, LuminaX,BAHRAIN,2022,2,PAKISTAN,Delayed employment initiation,0
+197,5941279296001, LuminaX,BAHRAIN,2022,2,PAKISTAN,Delayed earnings adjustment,3
+198,5941279296001, LuminaX,BAHRAIN,2022,2,PAKISTAN,Delayed Start or end date adjustment,5
+199,5941279296001, LuminaX,BAHRAIN,2022,2,PAKISTAN,Delayed employment terminations,0
+200,5941279296001, LuminaX,BAHRAIN,2022,2,PHILIPPINES,Delete employment period,2
+201,5941279296001, LuminaX,BAHRAIN,2022,2,PHILIPPINES,Delayed employment initiation,1
+202,5941279296001, LuminaX,BAHRAIN,2022,2,PHILIPPINES,Delayed earnings adjustment,1
+203,5941279296001, LuminaX,BAHRAIN,2022,2,PHILIPPINES,Delayed Start or end date adjustment,4
+204,5941279296001, LuminaX,BAHRAIN,2022,2,PHILIPPINES,Delayed employment terminations,1
+205,5941279296001, LuminaX,BAHRAIN,2022,2,QATAR,Delete employment period,1
+206,5941279296001, LuminaX,BAHRAIN,2022,2,QATAR,Delayed employment initiation,0
+207,5941279296001, LuminaX,BAHRAIN,2022,2,QATAR,Delayed earnings adjustment,1
+208,5941279296001, LuminaX,BAHRAIN,2022,2,QATAR,Delayed Start or end date adjustment,1
+209,5941279296001, LuminaX,BAHRAIN,2022,2,QATAR,Delayed employment terminations,3
+210,5941279296001, LuminaX,BAHRAIN,2022,2,SAUDI ARABIA,Delete employment period,0
+211,5941279296001, LuminaX,BAHRAIN,2022,2,SAUDI ARABIA,Delayed employment initiation,3
+212,5941279296001, LuminaX,BAHRAIN,2022,2,SAUDI ARABIA,Delayed earnings adjustment,1
+213,5941279296001, LuminaX,BAHRAIN,2022,2,SAUDI ARABIA,Delayed Start or end date adjustment,4
+214,5941279296001, LuminaX,BAHRAIN,2022,2,SAUDI ARABIA,Delayed employment terminations,5
+215,5941279296001, LuminaX,BAHRAIN,2022,2,BANGLADESH,Delete employment period,2
+216,5941279296001, LuminaX,BAHRAIN,2022,2,BANGLADESH,Delayed employment initiation,1
+217,5941279296001, LuminaX,BAHRAIN,2022,2,BANGLADESH,Delayed earnings adjustment,4
+218,5941279296001, LuminaX,BAHRAIN,2022,2,BANGLADESH,Delayed Start or end date adjustment,1
+219,5941279296001, LuminaX,BAHRAIN,2022,2,BANGLADESH,Delayed employment terminations,3
+220,5941279296001, LuminaX,BAHRAIN,2022,3,BAHRAIN,Delete employment period,0
+221,5941279296001, LuminaX,BAHRAIN,2022,3,BAHRAIN,Delayed employment initiation,0
+222,5941279296001, LuminaX,BAHRAIN,2022,3,BAHRAIN,Delayed earnings adjustment,4
+223,5941279296001, LuminaX,BAHRAIN,2022,3,BAHRAIN,Delayed Start or end date adjustment,5
+224,5941279296001, LuminaX,BAHRAIN,2022,3,BAHRAIN,Delayed employment terminations,4
+225,5941279296001, LuminaX,BAHRAIN,2022,3,UNITED ARAB EMIRATES,Delete employment period,0
+226,5941279296001, LuminaX,BAHRAIN,2022,3,UNITED ARAB EMIRATES,Delayed employment initiation,5
+227,5941279296001, LuminaX,BAHRAIN,2022,3,UNITED ARAB EMIRATES,Delayed earnings adjustment,1
+228,5941279296001, LuminaX,BAHRAIN,2022,3,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,1
+229,5941279296001, LuminaX,BAHRAIN,2022,3,UNITED ARAB EMIRATES,Delayed employment terminations,4
+230,5941279296001, LuminaX,BAHRAIN,2022,3,INDIA,Delete employment period,2
+231,5941279296001, LuminaX,BAHRAIN,2022,3,INDIA,Delayed employment initiation,1
+232,5941279296001, LuminaX,BAHRAIN,2022,3,INDIA,Delayed earnings adjustment,1
+233,5941279296001, LuminaX,BAHRAIN,2022,3,INDIA,Delayed Start or end date adjustment,4
+234,5941279296001, LuminaX,BAHRAIN,2022,3,INDIA,Delayed employment terminations,1
+235,5941279296001, LuminaX,BAHRAIN,2022,3,KUWAIT,Delete employment period,2
+236,5941279296001, LuminaX,BAHRAIN,2022,3,KUWAIT,Delayed employment initiation,2
+237,5941279296001, LuminaX,BAHRAIN,2022,3,KUWAIT,Delayed earnings adjustment,1
+238,5941279296001, LuminaX,BAHRAIN,2022,3,KUWAIT,Delayed Start or end date adjustment,1
+239,5941279296001, LuminaX,BAHRAIN,2022,3,KUWAIT,Delayed employment terminations,0
+240,5941279296001, LuminaX,BAHRAIN,2022,3,OMAN,Delete employment period,2
+241,5941279296001, LuminaX,BAHRAIN,2022,3,OMAN,Delayed employment initiation,0
+242,5941279296001, LuminaX,BAHRAIN,2022,3,OMAN,Delayed earnings adjustment,1
+243,5941279296001, LuminaX,BAHRAIN,2022,3,OMAN,Delayed Start or end date adjustment,0
+244,5941279296001, LuminaX,BAHRAIN,2022,3,OMAN,Delayed employment terminations,0
+245,5941279296001, LuminaX,BAHRAIN,2022,3,PAKISTAN,Delete employment period,2
+246,5941279296001, LuminaX,BAHRAIN,2022,3,PAKISTAN,Delayed employment initiation,1
+247,5941279296001, LuminaX,BAHRAIN,2022,3,PAKISTAN,Delayed earnings adjustment,5
+248,5941279296001, LuminaX,BAHRAIN,2022,3,PAKISTAN,Delayed Start or end date adjustment,2
+249,5941279296001, LuminaX,BAHRAIN,2022,3,PAKISTAN,Delayed employment terminations,0
+250,5941279296001, LuminaX,BAHRAIN,2022,3,PHILIPPINES,Delete employment period,3
+251,5941279296001, LuminaX,BAHRAIN,2022,3,PHILIPPINES,Delayed employment initiation,1
+252,5941279296001, LuminaX,BAHRAIN,2022,3,PHILIPPINES,Delayed earnings adjustment,1
+253,5941279296001, LuminaX,BAHRAIN,2022,3,PHILIPPINES,Delayed Start or end date adjustment,4
+254,5941279296001, LuminaX,BAHRAIN,2022,3,PHILIPPINES,Delayed employment terminations,3
+255,5941279296001, LuminaX,BAHRAIN,2022,3,QATAR,Delete employment period,2
+256,5941279296001, LuminaX,BAHRAIN,2022,3,QATAR,Delayed employment initiation,4
+257,5941279296001, LuminaX,BAHRAIN,2022,3,QATAR,Delayed earnings adjustment,3
+258,5941279296001, LuminaX,BAHRAIN,2022,3,QATAR,Delayed Start or end date adjustment,4
+259,5941279296001, LuminaX,BAHRAIN,2022,3,QATAR,Delayed employment terminations,0
+260,5941279296001, LuminaX,BAHRAIN,2022,3,SAUDI ARABIA,Delete employment period,5
+261,5941279296001, LuminaX,BAHRAIN,2022,3,SAUDI ARABIA,Delayed employment initiation,4
+262,5941279296001, LuminaX,BAHRAIN,2022,3,SAUDI ARABIA,Delayed earnings adjustment,0
+263,5941279296001, LuminaX,BAHRAIN,2022,3,SAUDI ARABIA,Delayed Start or end date adjustment,2
+264,5941279296001, LuminaX,BAHRAIN,2022,3,SAUDI ARABIA,Delayed employment terminations,4
+265,5941279296001, LuminaX,BAHRAIN,2022,3,BANGLADESH,Delete employment period,4
+266,5941279296001, LuminaX,BAHRAIN,2022,3,BANGLADESH,Delayed employment initiation,3
+267,5941279296001, LuminaX,BAHRAIN,2022,3,BANGLADESH,Delayed earnings adjustment,4
+268,5941279296001, LuminaX,BAHRAIN,2022,3,BANGLADESH,Delayed Start or end date adjustment,4
+269,5941279296001, LuminaX,BAHRAIN,2022,3,BANGLADESH,Delayed employment terminations,3
+270,5941279296001, LuminaX,BAHRAIN,2022,4,BAHRAIN,Delete employment period,2
+271,5941279296001, LuminaX,BAHRAIN,2022,4,BAHRAIN,Delayed employment initiation,2
+272,5941279296001, LuminaX,BAHRAIN,2022,4,BAHRAIN,Delayed earnings adjustment,4
+273,5941279296001, LuminaX,BAHRAIN,2022,4,BAHRAIN,Delayed Start or end date adjustment,5
+274,5941279296001, LuminaX,BAHRAIN,2022,4,BAHRAIN,Delayed employment terminations,0
+275,5941279296001, LuminaX,BAHRAIN,2022,4,UNITED ARAB EMIRATES,Delete employment period,3
+276,5941279296001, LuminaX,BAHRAIN,2022,4,UNITED ARAB EMIRATES,Delayed employment initiation,5
+277,5941279296001, LuminaX,BAHRAIN,2022,4,UNITED ARAB EMIRATES,Delayed earnings adjustment,5
+278,5941279296001, LuminaX,BAHRAIN,2022,4,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,4
+279,5941279296001, LuminaX,BAHRAIN,2022,4,UNITED ARAB EMIRATES,Delayed employment terminations,1
+280,5941279296001, LuminaX,BAHRAIN,2022,4,INDIA,Delete employment period,1
+281,5941279296001, LuminaX,BAHRAIN,2022,4,INDIA,Delayed employment initiation,4
+282,5941279296001, LuminaX,BAHRAIN,2022,4,INDIA,Delayed earnings adjustment,0
+283,5941279296001, LuminaX,BAHRAIN,2022,4,INDIA,Delayed Start or end date adjustment,5
+284,5941279296001, LuminaX,BAHRAIN,2022,4,INDIA,Delayed employment terminations,0
+285,5941279296001, LuminaX,BAHRAIN,2022,4,KUWAIT,Delete employment period,5
+286,5941279296001, LuminaX,BAHRAIN,2022,4,KUWAIT,Delayed employment initiation,5
+287,5941279296001, LuminaX,BAHRAIN,2022,4,KUWAIT,Delayed earnings adjustment,2
+288,5941279296001, LuminaX,BAHRAIN,2022,4,KUWAIT,Delayed Start or end date adjustment,1
+289,5941279296001, LuminaX,BAHRAIN,2022,4,KUWAIT,Delayed employment terminations,2
+290,5941279296001, LuminaX,BAHRAIN,2022,4,OMAN,Delete employment period,0
+291,5941279296001, LuminaX,BAHRAIN,2022,4,OMAN,Delayed employment initiation,4
+292,5941279296001, LuminaX,BAHRAIN,2022,4,OMAN,Delayed earnings adjustment,2
+293,5941279296001, LuminaX,BAHRAIN,2022,4,OMAN,Delayed Start or end date adjustment,0
+294,5941279296001, LuminaX,BAHRAIN,2022,4,OMAN,Delayed employment terminations,3
+295,5941279296001, LuminaX,BAHRAIN,2022,4,PAKISTAN,Delete employment period,1
+296,5941279296001, LuminaX,BAHRAIN,2022,4,PAKISTAN,Delayed employment initiation,0
+297,5941279296001, LuminaX,BAHRAIN,2022,4,PAKISTAN,Delayed earnings adjustment,4
+298,5941279296001, LuminaX,BAHRAIN,2022,4,PAKISTAN,Delayed Start or end date adjustment,0
+299,5941279296001, LuminaX,BAHRAIN,2022,4,PAKISTAN,Delayed employment terminations,3
+300,5941279296001, LuminaX,BAHRAIN,2022,4,PHILIPPINES,Delete employment period,4
+301,5941279296001, LuminaX,BAHRAIN,2022,4,PHILIPPINES,Delayed employment initiation,3
+302,5941279296001, LuminaX,BAHRAIN,2022,4,PHILIPPINES,Delayed earnings adjustment,4
+303,5941279296001, LuminaX,BAHRAIN,2022,4,PHILIPPINES,Delayed Start or end date adjustment,3
+304,5941279296001, LuminaX,BAHRAIN,2022,4,PHILIPPINES,Delayed employment terminations,0
+305,5941279296001, LuminaX,BAHRAIN,2022,4,QATAR,Delete employment period,1
+306,5941279296001, LuminaX,BAHRAIN,2022,4,QATAR,Delayed employment initiation,2
+307,5941279296001, LuminaX,BAHRAIN,2022,4,QATAR,Delayed earnings adjustment,1
+308,5941279296001, LuminaX,BAHRAIN,2022,4,QATAR,Delayed Start or end date adjustment,5
+309,5941279296001, LuminaX,BAHRAIN,2022,4,QATAR,Delayed employment terminations,2
+310,5941279296001, LuminaX,BAHRAIN,2022,4,SAUDI ARABIA,Delete employment period,1
+311,5941279296001, LuminaX,BAHRAIN,2022,4,SAUDI ARABIA,Delayed employment initiation,1
+312,5941279296001, LuminaX,BAHRAIN,2022,4,SAUDI ARABIA,Delayed earnings adjustment,3
+313,5941279296001, LuminaX,BAHRAIN,2022,4,SAUDI ARABIA,Delayed Start or end date adjustment,5
+314,5941279296001, LuminaX,BAHRAIN,2022,4,SAUDI ARABIA,Delayed employment terminations,1
+315,5941279296001, LuminaX,BAHRAIN,2022,4,BANGLADESH,Delete employment period,4
+316,5941279296001, LuminaX,BAHRAIN,2022,4,BANGLADESH,Delayed employment initiation,2
+317,5941279296001, LuminaX,BAHRAIN,2022,4,BANGLADESH,Delayed earnings adjustment,2
+318,5941279296001, LuminaX,BAHRAIN,2022,4,BANGLADESH,Delayed Start or end date adjustment,5
+319,5941279296001, LuminaX,BAHRAIN,2022,4,BANGLADESH,Delayed employment terminations,3
+320,5941279296001, LuminaX,BAHRAIN,2022,5,BAHRAIN,Delete employment period,3
+321,5941279296001, LuminaX,BAHRAIN,2022,5,BAHRAIN,Delayed employment initiation,0
+322,5941279296001, LuminaX,BAHRAIN,2022,5,BAHRAIN,Delayed earnings adjustment,4
+323,5941279296001, LuminaX,BAHRAIN,2022,5,BAHRAIN,Delayed Start or end date adjustment,0
+324,5941279296001, LuminaX,BAHRAIN,2022,5,BAHRAIN,Delayed employment terminations,0
+325,5941279296001, LuminaX,BAHRAIN,2022,5,UNITED ARAB EMIRATES,Delete employment period,3
+326,5941279296001, LuminaX,BAHRAIN,2022,5,UNITED ARAB EMIRATES,Delayed employment initiation,1
+327,5941279296001, LuminaX,BAHRAIN,2022,5,UNITED ARAB EMIRATES,Delayed earnings adjustment,0
+328,5941279296001, LuminaX,BAHRAIN,2022,5,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,0
+329,5941279296001, LuminaX,BAHRAIN,2022,5,UNITED ARAB EMIRATES,Delayed employment terminations,4
+330,5941279296001, LuminaX,BAHRAIN,2022,5,INDIA,Delete employment period,3
+331,5941279296001, LuminaX,BAHRAIN,2022,5,INDIA,Delayed employment initiation,4
+332,5941279296001, LuminaX,BAHRAIN,2022,5,INDIA,Delayed earnings adjustment,2
+333,5941279296001, LuminaX,BAHRAIN,2022,5,INDIA,Delayed Start or end date adjustment,0
+334,5941279296001, LuminaX,BAHRAIN,2022,5,INDIA,Delayed employment terminations,2
+335,5941279296001, LuminaX,BAHRAIN,2022,5,KUWAIT,Delete employment period,4
+336,5941279296001, LuminaX,BAHRAIN,2022,5,KUWAIT,Delayed employment initiation,2
+337,5941279296001, LuminaX,BAHRAIN,2022,5,KUWAIT,Delayed earnings adjustment,1
+338,5941279296001, LuminaX,BAHRAIN,2022,5,KUWAIT,Delayed Start or end date adjustment,0
+339,5941279296001, LuminaX,BAHRAIN,2022,5,KUWAIT,Delayed employment terminations,3
+340,5941279296001, LuminaX,BAHRAIN,2022,5,OMAN,Delete employment period,0
+341,5941279296001, LuminaX,BAHRAIN,2022,5,OMAN,Delayed employment initiation,1
+342,5941279296001, LuminaX,BAHRAIN,2022,5,OMAN,Delayed earnings adjustment,3
+343,5941279296001, LuminaX,BAHRAIN,2022,5,OMAN,Delayed Start or end date adjustment,0
+344,5941279296001, LuminaX,BAHRAIN,2022,5,OMAN,Delayed employment terminations,5
+345,5941279296001, LuminaX,BAHRAIN,2022,5,PAKISTAN,Delete employment period,2
+346,5941279296001, LuminaX,BAHRAIN,2022,5,PAKISTAN,Delayed employment initiation,2
+347,5941279296001, LuminaX,BAHRAIN,2022,5,PAKISTAN,Delayed earnings adjustment,4
+348,5941279296001, LuminaX,BAHRAIN,2022,5,PAKISTAN,Delayed Start or end date adjustment,2
+349,5941279296001, LuminaX,BAHRAIN,2022,5,PAKISTAN,Delayed employment terminations,3
+350,5941279296001, LuminaX,BAHRAIN,2022,5,PHILIPPINES,Delete employment period,3
+351,5941279296001, LuminaX,BAHRAIN,2022,5,PHILIPPINES,Delayed employment initiation,2
+352,5941279296001, LuminaX,BAHRAIN,2022,5,PHILIPPINES,Delayed earnings adjustment,2
+353,5941279296001, LuminaX,BAHRAIN,2022,5,PHILIPPINES,Delayed Start or end date adjustment,4
+354,5941279296001, LuminaX,BAHRAIN,2022,5,PHILIPPINES,Delayed employment terminations,3
+355,5941279296001, LuminaX,BAHRAIN,2022,5,QATAR,Delete employment period,2
+356,5941279296001, LuminaX,BAHRAIN,2022,5,QATAR,Delayed employment initiation,3
+357,5941279296001, LuminaX,BAHRAIN,2022,5,QATAR,Delayed earnings adjustment,3
+358,5941279296001, LuminaX,BAHRAIN,2022,5,QATAR,Delayed Start or end date adjustment,3
+359,5941279296001, LuminaX,BAHRAIN,2022,5,QATAR,Delayed employment terminations,3
+360,5941279296001, LuminaX,BAHRAIN,2022,5,SAUDI ARABIA,Delete employment period,2
+361,5941279296001, LuminaX,BAHRAIN,2022,5,SAUDI ARABIA,Delayed employment initiation,1
+362,5941279296001, LuminaX,BAHRAIN,2022,5,SAUDI ARABIA,Delayed earnings adjustment,4
+363,5941279296001, LuminaX,BAHRAIN,2022,5,SAUDI ARABIA,Delayed Start or end date adjustment,5
+364,5941279296001, LuminaX,BAHRAIN,2022,5,SAUDI ARABIA,Delayed employment terminations,4
+365,5941279296001, LuminaX,BAHRAIN,2022,5,BANGLADESH,Delete employment period,5
+366,5941279296001, LuminaX,BAHRAIN,2022,5,BANGLADESH,Delayed employment initiation,3
+367,5941279296001, LuminaX,BAHRAIN,2022,5,BANGLADESH,Delayed earnings adjustment,0
+368,5941279296001, LuminaX,BAHRAIN,2022,5,BANGLADESH,Delayed Start or end date adjustment,3
+369,5941279296001, LuminaX,BAHRAIN,2022,5,BANGLADESH,Delayed employment terminations,1
+370,5941279296001, LuminaX,BAHRAIN,2022,6,BAHRAIN,Delete employment period,2
+371,5941279296001, LuminaX,BAHRAIN,2022,6,BAHRAIN,Delayed employment initiation,2
+372,5941279296001, LuminaX,BAHRAIN,2022,6,BAHRAIN,Delayed earnings adjustment,1
+373,5941279296001, LuminaX,BAHRAIN,2022,6,BAHRAIN,Delayed Start or end date adjustment,4
+374,5941279296001, LuminaX,BAHRAIN,2022,6,BAHRAIN,Delayed employment terminations,3
+375,5941279296001, LuminaX,BAHRAIN,2022,6,UNITED ARAB EMIRATES,Delete employment period,2
+376,5941279296001, LuminaX,BAHRAIN,2022,6,UNITED ARAB EMIRATES,Delayed employment initiation,5
+377,5941279296001, LuminaX,BAHRAIN,2022,6,UNITED ARAB EMIRATES,Delayed earnings adjustment,4
+378,5941279296001, LuminaX,BAHRAIN,2022,6,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,1
+379,5941279296001, LuminaX,BAHRAIN,2022,6,UNITED ARAB EMIRATES,Delayed employment terminations,0
+380,5941279296001, LuminaX,BAHRAIN,2022,6,INDIA,Delete employment period,3
+381,5941279296001, LuminaX,BAHRAIN,2022,6,INDIA,Delayed employment initiation,4
+382,5941279296001, LuminaX,BAHRAIN,2022,6,INDIA,Delayed earnings adjustment,0
+383,5941279296001, LuminaX,BAHRAIN,2022,6,INDIA,Delayed Start or end date adjustment,4
+384,5941279296001, LuminaX,BAHRAIN,2022,6,INDIA,Delayed employment terminations,1
+385,5941279296001, LuminaX,BAHRAIN,2022,6,KUWAIT,Delete employment period,3
+386,5941279296001, LuminaX,BAHRAIN,2022,6,KUWAIT,Delayed employment initiation,3
+387,5941279296001, LuminaX,BAHRAIN,2022,6,KUWAIT,Delayed earnings adjustment,3
+388,5941279296001, LuminaX,BAHRAIN,2022,6,KUWAIT,Delayed Start or end date adjustment,1
+389,5941279296001, LuminaX,BAHRAIN,2022,6,KUWAIT,Delayed employment terminations,3
+390,5941279296001, LuminaX,BAHRAIN,2022,6,OMAN,Delete employment period,2
+391,5941279296001, LuminaX,BAHRAIN,2022,6,OMAN,Delayed employment initiation,2
+392,5941279296001, LuminaX,BAHRAIN,2022,6,OMAN,Delayed earnings adjustment,2
+393,5941279296001, LuminaX,BAHRAIN,2022,6,OMAN,Delayed Start or end date adjustment,1
+394,5941279296001, LuminaX,BAHRAIN,2022,6,OMAN,Delayed employment terminations,5
+395,5941279296001, LuminaX,BAHRAIN,2022,6,PAKISTAN,Delete employment period,4
+396,5941279296001, LuminaX,BAHRAIN,2022,6,PAKISTAN,Delayed employment initiation,2
+397,5941279296001, LuminaX,BAHRAIN,2022,6,PAKISTAN,Delayed earnings adjustment,3
+398,5941279296001, LuminaX,BAHRAIN,2022,6,PAKISTAN,Delayed Start or end date adjustment,1
+399,5941279296001, LuminaX,BAHRAIN,2022,6,PAKISTAN,Delayed employment terminations,3
+400,5941279296001, LuminaX,BAHRAIN,2022,6,PHILIPPINES,Delete employment period,2
+401,5941279296001, LuminaX,BAHRAIN,2022,6,PHILIPPINES,Delayed employment initiation,1
+402,5941279296001, LuminaX,BAHRAIN,2022,6,PHILIPPINES,Delayed earnings adjustment,1
+403,5941279296001, LuminaX,BAHRAIN,2022,6,PHILIPPINES,Delayed Start or end date adjustment,0
+404,5941279296001, LuminaX,BAHRAIN,2022,6,PHILIPPINES,Delayed employment terminations,3
+405,5941279296001, LuminaX,BAHRAIN,2022,6,QATAR,Delete employment period,2
+406,5941279296001, LuminaX,BAHRAIN,2022,6,QATAR,Delayed employment initiation,2
+407,5941279296001, LuminaX,BAHRAIN,2022,6,QATAR,Delayed earnings adjustment,3
+408,5941279296001, LuminaX,BAHRAIN,2022,6,QATAR,Delayed Start or end date adjustment,2
+409,5941279296001, LuminaX,BAHRAIN,2022,6,QATAR,Delayed employment terminations,1
+410,5941279296001, LuminaX,BAHRAIN,2022,6,SAUDI ARABIA,Delete employment period,4
+411,5941279296001, LuminaX,BAHRAIN,2022,6,SAUDI ARABIA,Delayed employment initiation,4
+412,5941279296001, LuminaX,BAHRAIN,2022,6,SAUDI ARABIA,Delayed earnings adjustment,2
+413,5941279296001, LuminaX,BAHRAIN,2022,6,SAUDI ARABIA,Delayed Start or end date adjustment,1
+414,5941279296001, LuminaX,BAHRAIN,2022,6,SAUDI ARABIA,Delayed employment terminations,4
+415,5941279296001, LuminaX,BAHRAIN,2022,6,BANGLADESH,Delete employment period,4
+416,5941279296001, LuminaX,BAHRAIN,2022,6,BANGLADESH,Delayed employment initiation,0
+417,5941279296001, LuminaX,BAHRAIN,2022,6,BANGLADESH,Delayed earnings adjustment,1
+418,5941279296001, LuminaX,BAHRAIN,2022,6,BANGLADESH,Delayed Start or end date adjustment,1
+419,5941279296001, LuminaX,BAHRAIN,2022,6,BANGLADESH,Delayed employment terminations,4
+420,5941279296001, LuminaX,BAHRAIN,2022,7,BAHRAIN,Delete employment period,1
+421,5941279296001, LuminaX,BAHRAIN,2022,7,BAHRAIN,Delayed employment initiation,3
+422,5941279296001, LuminaX,BAHRAIN,2022,7,BAHRAIN,Delayed earnings adjustment,4
+423,5941279296001, LuminaX,BAHRAIN,2022,7,BAHRAIN,Delayed Start or end date adjustment,5
+424,5941279296001, LuminaX,BAHRAIN,2022,7,BAHRAIN,Delayed employment terminations,3
+425,5941279296001, LuminaX,BAHRAIN,2022,7,UNITED ARAB EMIRATES,Delete employment period,3
+426,5941279296001, LuminaX,BAHRAIN,2022,7,UNITED ARAB EMIRATES,Delayed employment initiation,0
+427,5941279296001, LuminaX,BAHRAIN,2022,7,UNITED ARAB EMIRATES,Delayed earnings adjustment,3
+428,5941279296001, LuminaX,BAHRAIN,2022,7,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,0
+429,5941279296001, LuminaX,BAHRAIN,2022,7,UNITED ARAB EMIRATES,Delayed employment terminations,3
+430,5941279296001, LuminaX,BAHRAIN,2022,7,INDIA,Delete employment period,2
+431,5941279296001, LuminaX,BAHRAIN,2022,7,INDIA,Delayed employment initiation,4
+432,5941279296001, LuminaX,BAHRAIN,2022,7,INDIA,Delayed earnings adjustment,0
+433,5941279296001, LuminaX,BAHRAIN,2022,7,INDIA,Delayed Start or end date adjustment,5
+434,5941279296001, LuminaX,BAHRAIN,2022,7,INDIA,Delayed employment terminations,2
+435,5941279296001, LuminaX,BAHRAIN,2022,7,KUWAIT,Delete employment period,1
+436,5941279296001, LuminaX,BAHRAIN,2022,7,KUWAIT,Delayed employment initiation,2
+437,5941279296001, LuminaX,BAHRAIN,2022,7,KUWAIT,Delayed earnings adjustment,2
+438,5941279296001, LuminaX,BAHRAIN,2022,7,KUWAIT,Delayed Start or end date adjustment,2
+439,5941279296001, LuminaX,BAHRAIN,2022,7,KUWAIT,Delayed employment terminations,5
+440,5941279296001, LuminaX,BAHRAIN,2022,7,OMAN,Delete employment period,3
+441,5941279296001, LuminaX,BAHRAIN,2022,7,OMAN,Delayed employment initiation,5
+442,5941279296001, LuminaX,BAHRAIN,2022,7,OMAN,Delayed earnings adjustment,1
+443,5941279296001, LuminaX,BAHRAIN,2022,7,OMAN,Delayed Start or end date adjustment,0
+444,5941279296001, LuminaX,BAHRAIN,2022,7,OMAN,Delayed employment terminations,5
+445,5941279296001, LuminaX,BAHRAIN,2022,7,PAKISTAN,Delete employment period,3
+446,5941279296001, LuminaX,BAHRAIN,2022,7,PAKISTAN,Delayed employment initiation,2
+447,5941279296001, LuminaX,BAHRAIN,2022,7,PAKISTAN,Delayed earnings adjustment,1
+448,5941279296001, LuminaX,BAHRAIN,2022,7,PAKISTAN,Delayed Start or end date adjustment,2
+449,5941279296001, LuminaX,BAHRAIN,2022,7,PAKISTAN,Delayed employment terminations,1
+450,5941279296001, LuminaX,BAHRAIN,2022,7,PHILIPPINES,Delete employment period,0
+451,5941279296001, LuminaX,BAHRAIN,2022,7,PHILIPPINES,Delayed employment initiation,0
+452,5941279296001, LuminaX,BAHRAIN,2022,7,PHILIPPINES,Delayed earnings adjustment,3
+453,5941279296001, LuminaX,BAHRAIN,2022,7,PHILIPPINES,Delayed Start or end date adjustment,5
+454,5941279296001, LuminaX,BAHRAIN,2022,7,PHILIPPINES,Delayed employment terminations,5
+455,5941279296001, LuminaX,BAHRAIN,2022,7,QATAR,Delete employment period,2
+456,5941279296001, LuminaX,BAHRAIN,2022,7,QATAR,Delayed employment initiation,4
+457,5941279296001, LuminaX,BAHRAIN,2022,7,QATAR,Delayed earnings adjustment,1
+458,5941279296001, LuminaX,BAHRAIN,2022,7,QATAR,Delayed Start or end date adjustment,4
+459,5941279296001, LuminaX,BAHRAIN,2022,7,QATAR,Delayed employment terminations,2
+460,5941279296001, LuminaX,BAHRAIN,2022,7,SAUDI ARABIA,Delete employment period,5
+461,5941279296001, LuminaX,BAHRAIN,2022,7,SAUDI ARABIA,Delayed employment initiation,4
+462,5941279296001, LuminaX,BAHRAIN,2022,7,SAUDI ARABIA,Delayed earnings adjustment,5
+463,5941279296001, LuminaX,BAHRAIN,2022,7,SAUDI ARABIA,Delayed Start or end date adjustment,1
+464,5941279296001, LuminaX,BAHRAIN,2022,7,SAUDI ARABIA,Delayed employment terminations,1
+465,5941279296001, LuminaX,BAHRAIN,2022,7,BANGLADESH,Delete employment period,4
+466,5941279296001, LuminaX,BAHRAIN,2022,7,BANGLADESH,Delayed employment initiation,1
+467,5941279296001, LuminaX,BAHRAIN,2022,7,BANGLADESH,Delayed earnings adjustment,5
+468,5941279296001, LuminaX,BAHRAIN,2022,7,BANGLADESH,Delayed Start or end date adjustment,4
+469,5941279296001, LuminaX,BAHRAIN,2022,7,BANGLADESH,Delayed employment terminations,1
+470,5941279296001, LuminaX,BAHRAIN,2022,8,BAHRAIN,Delete employment period,5
+471,5941279296001, LuminaX,BAHRAIN,2022,8,BAHRAIN,Delayed employment initiation,3
+472,5941279296001, LuminaX,BAHRAIN,2022,8,BAHRAIN,Delayed earnings adjustment,4
+473,5941279296001, LuminaX,BAHRAIN,2022,8,BAHRAIN,Delayed Start or end date adjustment,0
+474,5941279296001, LuminaX,BAHRAIN,2022,8,BAHRAIN,Delayed employment terminations,0
+475,5941279296001, LuminaX,BAHRAIN,2022,8,UNITED ARAB EMIRATES,Delete employment period,3
+476,5941279296001, LuminaX,BAHRAIN,2022,8,UNITED ARAB EMIRATES,Delayed employment initiation,1
+477,5941279296001, LuminaX,BAHRAIN,2022,8,UNITED ARAB EMIRATES,Delayed earnings adjustment,5
+478,5941279296001, LuminaX,BAHRAIN,2022,8,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,1
+479,5941279296001, LuminaX,BAHRAIN,2022,8,UNITED ARAB EMIRATES,Delayed employment terminations,2
+480,5941279296001, LuminaX,BAHRAIN,2022,8,INDIA,Delete employment period,0
+481,5941279296001, LuminaX,BAHRAIN,2022,8,INDIA,Delayed employment initiation,3
+482,5941279296001, LuminaX,BAHRAIN,2022,8,INDIA,Delayed earnings adjustment,1
+483,5941279296001, LuminaX,BAHRAIN,2022,8,INDIA,Delayed Start or end date adjustment,2
+484,5941279296001, LuminaX,BAHRAIN,2022,8,INDIA,Delayed employment terminations,5
+485,5941279296001, LuminaX,BAHRAIN,2022,8,KUWAIT,Delete employment period,0
+486,5941279296001, LuminaX,BAHRAIN,2022,8,KUWAIT,Delayed employment initiation,5
+487,5941279296001, LuminaX,BAHRAIN,2022,8,KUWAIT,Delayed earnings adjustment,3
+488,5941279296001, LuminaX,BAHRAIN,2022,8,KUWAIT,Delayed Start or end date adjustment,5
+489,5941279296001, LuminaX,BAHRAIN,2022,8,KUWAIT,Delayed employment terminations,3
+490,5941279296001, LuminaX,BAHRAIN,2022,8,OMAN,Delete employment period,3
+491,5941279296001, LuminaX,BAHRAIN,2022,8,OMAN,Delayed employment initiation,5
+492,5941279296001, LuminaX,BAHRAIN,2022,8,OMAN,Delayed earnings adjustment,2
+493,5941279296001, LuminaX,BAHRAIN,2022,8,OMAN,Delayed Start or end date adjustment,5
+494,5941279296001, LuminaX,BAHRAIN,2022,8,OMAN,Delayed employment terminations,5
+495,5941279296001, LuminaX,BAHRAIN,2022,8,PAKISTAN,Delete employment period,0
+496,5941279296001, LuminaX,BAHRAIN,2022,8,PAKISTAN,Delayed employment initiation,1
+497,5941279296001, LuminaX,BAHRAIN,2022,8,PAKISTAN,Delayed earnings adjustment,4
+498,5941279296001, LuminaX,BAHRAIN,2022,8,PAKISTAN,Delayed Start or end date adjustment,0
+499,5941279296001, LuminaX,BAHRAIN,2022,8,PAKISTAN,Delayed employment terminations,4
+500,5941279296001, LuminaX,BAHRAIN,2022,8,PHILIPPINES,Delete employment period,5
+501,5941279296001, LuminaX,BAHRAIN,2022,8,PHILIPPINES,Delayed employment initiation,1
+502,5941279296001, LuminaX,BAHRAIN,2022,8,PHILIPPINES,Delayed earnings adjustment,3
+503,5941279296001, LuminaX,BAHRAIN,2022,8,PHILIPPINES,Delayed Start or end date adjustment,3
+504,5941279296001, LuminaX,BAHRAIN,2022,8,PHILIPPINES,Delayed employment terminations,0
+505,5941279296001, LuminaX,BAHRAIN,2022,8,QATAR,Delete employment period,4
+506,5941279296001, LuminaX,BAHRAIN,2022,8,QATAR,Delayed employment initiation,0
+507,5941279296001, LuminaX,BAHRAIN,2022,8,QATAR,Delayed earnings adjustment,0
+508,5941279296001, LuminaX,BAHRAIN,2022,8,QATAR,Delayed Start or end date adjustment,1
+509,5941279296001, LuminaX,BAHRAIN,2022,8,QATAR,Delayed employment terminations,2
+510,5941279296001, LuminaX,BAHRAIN,2022,8,SAUDI ARABIA,Delete employment period,4
+511,5941279296001, LuminaX,BAHRAIN,2022,8,SAUDI ARABIA,Delayed employment initiation,3
+512,5941279296001, LuminaX,BAHRAIN,2022,8,SAUDI ARABIA,Delayed earnings adjustment,3
+513,5941279296001, LuminaX,BAHRAIN,2022,8,SAUDI ARABIA,Delayed Start or end date adjustment,0
+514,5941279296001, LuminaX,BAHRAIN,2022,8,SAUDI ARABIA,Delayed employment terminations,4
+515,5941279296001, LuminaX,BAHRAIN,2022,8,BANGLADESH,Delete employment period,1
+516,5941279296001, LuminaX,BAHRAIN,2022,8,BANGLADESH,Delayed employment initiation,1
+517,5941279296001, LuminaX,BAHRAIN,2022,8,BANGLADESH,Delayed earnings adjustment,2
+518,5941279296001, LuminaX,BAHRAIN,2022,8,BANGLADESH,Delayed Start or end date adjustment,4
+519,5941279296001, LuminaX,BAHRAIN,2022,8,BANGLADESH,Delayed employment terminations,3
+520,5941279296001, LuminaX,BAHRAIN,2022,9,BAHRAIN,Delete employment period,2
+521,5941279296001, LuminaX,BAHRAIN,2022,9,BAHRAIN,Delayed employment initiation,1
+522,5941279296001, LuminaX,BAHRAIN,2022,9,BAHRAIN,Delayed earnings adjustment,4
+523,5941279296001, LuminaX,BAHRAIN,2022,9,BAHRAIN,Delayed Start or end date adjustment,1
+524,5941279296001, LuminaX,BAHRAIN,2022,9,BAHRAIN,Delayed employment terminations,3
+525,5941279296001, LuminaX,BAHRAIN,2022,9,UNITED ARAB EMIRATES,Delete employment period,1
+526,5941279296001, LuminaX,BAHRAIN,2022,9,UNITED ARAB EMIRATES,Delayed employment initiation,3
+527,5941279296001, LuminaX,BAHRAIN,2022,9,UNITED ARAB EMIRATES,Delayed earnings adjustment,2
+528,5941279296001, LuminaX,BAHRAIN,2022,9,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,1
+529,5941279296001, LuminaX,BAHRAIN,2022,9,UNITED ARAB EMIRATES,Delayed employment terminations,5
+530,5941279296001, LuminaX,BAHRAIN,2022,9,INDIA,Delete employment period,5
+531,5941279296001, LuminaX,BAHRAIN,2022,9,INDIA,Delayed employment initiation,1
+532,5941279296001, LuminaX,BAHRAIN,2022,9,INDIA,Delayed earnings adjustment,4
+533,5941279296001, LuminaX,BAHRAIN,2022,9,INDIA,Delayed Start or end date adjustment,0
+534,5941279296001, LuminaX,BAHRAIN,2022,9,INDIA,Delayed employment terminations,1
+535,5941279296001, LuminaX,BAHRAIN,2022,9,KUWAIT,Delete employment period,4
+536,5941279296001, LuminaX,BAHRAIN,2022,9,KUWAIT,Delayed employment initiation,1
+537,5941279296001, LuminaX,BAHRAIN,2022,9,KUWAIT,Delayed earnings adjustment,0
+538,5941279296001, LuminaX,BAHRAIN,2022,9,KUWAIT,Delayed Start or end date adjustment,0
+539,5941279296001, LuminaX,BAHRAIN,2022,9,KUWAIT,Delayed employment terminations,2
+540,5941279296001, LuminaX,BAHRAIN,2022,9,OMAN,Delete employment period,2
+541,5941279296001, LuminaX,BAHRAIN,2022,9,OMAN,Delayed employment initiation,0
+542,5941279296001, LuminaX,BAHRAIN,2022,9,OMAN,Delayed earnings adjustment,5
+543,5941279296001, LuminaX,BAHRAIN,2022,9,OMAN,Delayed Start or end date adjustment,2
+544,5941279296001, LuminaX,BAHRAIN,2022,9,OMAN,Delayed employment terminations,2
+545,5941279296001, LuminaX,BAHRAIN,2022,9,PAKISTAN,Delete employment period,1
+546,5941279296001, LuminaX,BAHRAIN,2022,9,PAKISTAN,Delayed employment initiation,1
+547,5941279296001, LuminaX,BAHRAIN,2022,9,PAKISTAN,Delayed earnings adjustment,1
+548,5941279296001, LuminaX,BAHRAIN,2022,9,PAKISTAN,Delayed Start or end date adjustment,5
+549,5941279296001, LuminaX,BAHRAIN,2022,9,PAKISTAN,Delayed employment terminations,5
+550,5941279296001, LuminaX,BAHRAIN,2022,9,PHILIPPINES,Delete employment period,4
+551,5941279296001, LuminaX,BAHRAIN,2022,9,PHILIPPINES,Delayed employment initiation,5
+552,5941279296001, LuminaX,BAHRAIN,2022,9,PHILIPPINES,Delayed earnings adjustment,0
+553,5941279296001, LuminaX,BAHRAIN,2022,9,PHILIPPINES,Delayed Start or end date adjustment,5
+554,5941279296001, LuminaX,BAHRAIN,2022,9,PHILIPPINES,Delayed employment terminations,0
+555,5941279296001, LuminaX,BAHRAIN,2022,9,QATAR,Delete employment period,5
+556,5941279296001, LuminaX,BAHRAIN,2022,9,QATAR,Delayed employment initiation,1
+557,5941279296001, LuminaX,BAHRAIN,2022,9,QATAR,Delayed earnings adjustment,2
+558,5941279296001, LuminaX,BAHRAIN,2022,9,QATAR,Delayed Start or end date adjustment,1
+559,5941279296001, LuminaX,BAHRAIN,2022,9,QATAR,Delayed employment terminations,0
+560,5941279296001, LuminaX,BAHRAIN,2022,9,SAUDI ARABIA,Delete employment period,1
+561,5941279296001, LuminaX,BAHRAIN,2022,9,SAUDI ARABIA,Delayed employment initiation,0
+562,5941279296001, LuminaX,BAHRAIN,2022,9,SAUDI ARABIA,Delayed earnings adjustment,0
+563,5941279296001, LuminaX,BAHRAIN,2022,9,SAUDI ARABIA,Delayed Start or end date adjustment,5
+564,5941279296001, LuminaX,BAHRAIN,2022,9,SAUDI ARABIA,Delayed employment terminations,4
+565,5941279296001, LuminaX,BAHRAIN,2022,9,BANGLADESH,Delete employment period,2
+566,5941279296001, LuminaX,BAHRAIN,2022,9,BANGLADESH,Delayed employment initiation,4
+567,5941279296001, LuminaX,BAHRAIN,2022,9,BANGLADESH,Delayed earnings adjustment,1
+568,5941279296001, LuminaX,BAHRAIN,2022,9,BANGLADESH,Delayed Start or end date adjustment,5
+569,5941279296001, LuminaX,BAHRAIN,2022,9,BANGLADESH,Delayed employment terminations,5
+570,5941279296001, LuminaX,BAHRAIN,2022,10,BAHRAIN,Delete employment period,2
+571,5941279296001, LuminaX,BAHRAIN,2022,10,BAHRAIN,Delayed employment initiation,1
+572,5941279296001, LuminaX,BAHRAIN,2022,10,BAHRAIN,Delayed earnings adjustment,5
+573,5941279296001, LuminaX,BAHRAIN,2022,10,BAHRAIN,Delayed Start or end date adjustment,0
+574,5941279296001, LuminaX,BAHRAIN,2022,10,BAHRAIN,Delayed employment terminations,3
+575,5941279296001, LuminaX,BAHRAIN,2022,10,UNITED ARAB EMIRATES,Delete employment period,1
+576,5941279296001, LuminaX,BAHRAIN,2022,10,UNITED ARAB EMIRATES,Delayed employment initiation,2
+577,5941279296001, LuminaX,BAHRAIN,2022,10,UNITED ARAB EMIRATES,Delayed earnings adjustment,5
+578,5941279296001, LuminaX,BAHRAIN,2022,10,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,2
+579,5941279296001, LuminaX,BAHRAIN,2022,10,UNITED ARAB EMIRATES,Delayed employment terminations,0
+580,5941279296001, LuminaX,BAHRAIN,2022,10,INDIA,Delete employment period,0
+581,5941279296001, LuminaX,BAHRAIN,2022,10,INDIA,Delayed employment initiation,2
+582,5941279296001, LuminaX,BAHRAIN,2022,10,INDIA,Delayed earnings adjustment,2
+583,5941279296001, LuminaX,BAHRAIN,2022,10,INDIA,Delayed Start or end date adjustment,0
+584,5941279296001, LuminaX,BAHRAIN,2022,10,INDIA,Delayed employment terminations,0
+585,5941279296001, LuminaX,BAHRAIN,2022,10,KUWAIT,Delete employment period,0
+586,5941279296001, LuminaX,BAHRAIN,2022,10,KUWAIT,Delayed employment initiation,5
+587,5941279296001, LuminaX,BAHRAIN,2022,10,KUWAIT,Delayed earnings adjustment,3
+588,5941279296001, LuminaX,BAHRAIN,2022,10,KUWAIT,Delayed Start or end date adjustment,3
+589,5941279296001, LuminaX,BAHRAIN,2022,10,KUWAIT,Delayed employment terminations,1
+590,5941279296001, LuminaX,BAHRAIN,2022,10,OMAN,Delete employment period,0
+591,5941279296001, LuminaX,BAHRAIN,2022,10,OMAN,Delayed employment initiation,0
+592,5941279296001, LuminaX,BAHRAIN,2022,10,OMAN,Delayed earnings adjustment,1
+593,5941279296001, LuminaX,BAHRAIN,2022,10,OMAN,Delayed Start or end date adjustment,3
+594,5941279296001, LuminaX,BAHRAIN,2022,10,OMAN,Delayed employment terminations,4
+595,5941279296001, LuminaX,BAHRAIN,2022,10,PAKISTAN,Delete employment period,4
+596,5941279296001, LuminaX,BAHRAIN,2022,10,PAKISTAN,Delayed employment initiation,3
+597,5941279296001, LuminaX,BAHRAIN,2022,10,PAKISTAN,Delayed earnings adjustment,3
+598,5941279296001, LuminaX,BAHRAIN,2022,10,PAKISTAN,Delayed Start or end date adjustment,3
+599,5941279296001, LuminaX,BAHRAIN,2022,10,PAKISTAN,Delayed employment terminations,1
+600,5941279296001, LuminaX,BAHRAIN,2022,10,PHILIPPINES,Delete employment period,3
+601,5941279296001, LuminaX,BAHRAIN,2022,10,PHILIPPINES,Delayed employment initiation,4
+602,5941279296001, LuminaX,BAHRAIN,2022,10,PHILIPPINES,Delayed earnings adjustment,4
+603,5941279296001, LuminaX,BAHRAIN,2022,10,PHILIPPINES,Delayed Start or end date adjustment,2
+604,5941279296001, LuminaX,BAHRAIN,2022,10,PHILIPPINES,Delayed employment terminations,1
+605,5941279296001, LuminaX,BAHRAIN,2022,10,QATAR,Delete employment period,2
+606,5941279296001, LuminaX,BAHRAIN,2022,10,QATAR,Delayed employment initiation,1
+607,5941279296001, LuminaX,BAHRAIN,2022,10,QATAR,Delayed earnings adjustment,5
+608,5941279296001, LuminaX,BAHRAIN,2022,10,QATAR,Delayed Start or end date adjustment,1
+609,5941279296001, LuminaX,BAHRAIN,2022,10,QATAR,Delayed employment terminations,0
+610,5941279296001, LuminaX,BAHRAIN,2022,10,SAUDI ARABIA,Delete employment period,4
+611,5941279296001, LuminaX,BAHRAIN,2022,10,SAUDI ARABIA,Delayed employment initiation,3
+612,5941279296001, LuminaX,BAHRAIN,2022,10,SAUDI ARABIA,Delayed earnings adjustment,1
+613,5941279296001, LuminaX,BAHRAIN,2022,10,SAUDI ARABIA,Delayed Start or end date adjustment,4
+614,5941279296001, LuminaX,BAHRAIN,2022,10,SAUDI ARABIA,Delayed employment terminations,4
+615,5941279296001, LuminaX,BAHRAIN,2022,10,BANGLADESH,Delete employment period,2
+616,5941279296001, LuminaX,BAHRAIN,2022,10,BANGLADESH,Delayed employment initiation,1
+617,5941279296001, LuminaX,BAHRAIN,2022,10,BANGLADESH,Delayed earnings adjustment,3
+618,5941279296001, LuminaX,BAHRAIN,2022,10,BANGLADESH,Delayed Start or end date adjustment,2
+619,5941279296001, LuminaX,BAHRAIN,2022,10,BANGLADESH,Delayed employment terminations,3
+620,5941279296001, LuminaX,BAHRAIN,2022,11,BAHRAIN,Delete employment period,3
+621,5941279296001, LuminaX,BAHRAIN,2022,11,BAHRAIN,Delayed employment initiation,4
+622,5941279296001, LuminaX,BAHRAIN,2022,11,BAHRAIN,Delayed earnings adjustment,1
+623,5941279296001, LuminaX,BAHRAIN,2022,11,BAHRAIN,Delayed Start or end date adjustment,4
+624,5941279296001, LuminaX,BAHRAIN,2022,11,BAHRAIN,Delayed employment terminations,2
+625,5941279296001, LuminaX,BAHRAIN,2022,11,UNITED ARAB EMIRATES,Delete employment period,1
+626,5941279296001, LuminaX,BAHRAIN,2022,11,UNITED ARAB EMIRATES,Delayed employment initiation,4
+627,5941279296001, LuminaX,BAHRAIN,2022,11,UNITED ARAB EMIRATES,Delayed earnings adjustment,1
+628,5941279296001, LuminaX,BAHRAIN,2022,11,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,4
+629,5941279296001, LuminaX,BAHRAIN,2022,11,UNITED ARAB EMIRATES,Delayed employment terminations,0
+630,5941279296001, LuminaX,BAHRAIN,2022,11,INDIA,Delete employment period,4
+631,5941279296001, LuminaX,BAHRAIN,2022,11,INDIA,Delayed employment initiation,5
+632,5941279296001, LuminaX,BAHRAIN,2022,11,INDIA,Delayed earnings adjustment,5
+633,5941279296001, LuminaX,BAHRAIN,2022,11,INDIA,Delayed Start or end date adjustment,0
+634,5941279296001, LuminaX,BAHRAIN,2022,11,INDIA,Delayed employment terminations,2
+635,5941279296001, LuminaX,BAHRAIN,2022,11,KUWAIT,Delete employment period,4
+636,5941279296001, LuminaX,BAHRAIN,2022,11,KUWAIT,Delayed employment initiation,2
+637,5941279296001, LuminaX,BAHRAIN,2022,11,KUWAIT,Delayed earnings adjustment,5
+638,5941279296001, LuminaX,BAHRAIN,2022,11,KUWAIT,Delayed Start or end date adjustment,1
+639,5941279296001, LuminaX,BAHRAIN,2022,11,KUWAIT,Delayed employment terminations,3
+640,5941279296001, LuminaX,BAHRAIN,2022,11,OMAN,Delete employment period,5
+641,5941279296001, LuminaX,BAHRAIN,2022,11,OMAN,Delayed employment initiation,2
+642,5941279296001, LuminaX,BAHRAIN,2022,11,OMAN,Delayed earnings adjustment,2
+643,5941279296001, LuminaX,BAHRAIN,2022,11,OMAN,Delayed Start or end date adjustment,5
+644,5941279296001, LuminaX,BAHRAIN,2022,11,OMAN,Delayed employment terminations,1
+645,5941279296001, LuminaX,BAHRAIN,2022,11,PAKISTAN,Delete employment period,0
+646,5941279296001, LuminaX,BAHRAIN,2022,11,PAKISTAN,Delayed employment initiation,5
+647,5941279296001, LuminaX,BAHRAIN,2022,11,PAKISTAN,Delayed earnings adjustment,5
+648,5941279296001, LuminaX,BAHRAIN,2022,11,PAKISTAN,Delayed Start or end date adjustment,2
+649,5941279296001, LuminaX,BAHRAIN,2022,11,PAKISTAN,Delayed employment terminations,5
+650,5941279296001, LuminaX,BAHRAIN,2022,11,PHILIPPINES,Delete employment period,2
+651,5941279296001, LuminaX,BAHRAIN,2022,11,PHILIPPINES,Delayed employment initiation,3
+652,5941279296001, LuminaX,BAHRAIN,2022,11,PHILIPPINES,Delayed earnings adjustment,4
+653,5941279296001, LuminaX,BAHRAIN,2022,11,PHILIPPINES,Delayed Start or end date adjustment,2
+654,5941279296001, LuminaX,BAHRAIN,2022,11,PHILIPPINES,Delayed employment terminations,5
+655,5941279296001, LuminaX,BAHRAIN,2022,11,QATAR,Delete employment period,2
+656,5941279296001, LuminaX,BAHRAIN,2022,11,QATAR,Delayed employment initiation,2
+657,5941279296001, LuminaX,BAHRAIN,2022,11,QATAR,Delayed earnings adjustment,1
+658,5941279296001, LuminaX,BAHRAIN,2022,11,QATAR,Delayed Start or end date adjustment,0
+659,5941279296001, LuminaX,BAHRAIN,2022,11,QATAR,Delayed employment terminations,0
+660,5941279296001, LuminaX,BAHRAIN,2022,11,SAUDI ARABIA,Delete employment period,1
+661,5941279296001, LuminaX,BAHRAIN,2022,11,SAUDI ARABIA,Delayed employment initiation,0
+662,5941279296001, LuminaX,BAHRAIN,2022,11,SAUDI ARABIA,Delayed earnings adjustment,4
+663,5941279296001, LuminaX,BAHRAIN,2022,11,SAUDI ARABIA,Delayed Start or end date adjustment,4
+664,5941279296001, LuminaX,BAHRAIN,2022,11,SAUDI ARABIA,Delayed employment terminations,5
+665,5941279296001, LuminaX,BAHRAIN,2022,11,BANGLADESH,Delete employment period,4
+666,5941279296001, LuminaX,BAHRAIN,2022,11,BANGLADESH,Delayed employment initiation,5
+667,5941279296001, LuminaX,BAHRAIN,2022,11,BANGLADESH,Delayed earnings adjustment,5
+668,5941279296001, LuminaX,BAHRAIN,2022,11,BANGLADESH,Delayed Start or end date adjustment,1
+669,5941279296001, LuminaX,BAHRAIN,2022,11,BANGLADESH,Delayed employment terminations,4
+670,5941279296001, LuminaX,BAHRAIN,2022,12,BAHRAIN,Delete employment period,0
+671,5941279296001, LuminaX,BAHRAIN,2022,12,BAHRAIN,Delayed employment initiation,3
+672,5941279296001, LuminaX,BAHRAIN,2022,12,BAHRAIN,Delayed earnings adjustment,5
+673,5941279296001, LuminaX,BAHRAIN,2022,12,BAHRAIN,Delayed Start or end date adjustment,5
+674,5941279296001, LuminaX,BAHRAIN,2022,12,BAHRAIN,Delayed employment terminations,1
+675,5941279296001, LuminaX,BAHRAIN,2022,12,UNITED ARAB EMIRATES,Delete employment period,3
+676,5941279296001, LuminaX,BAHRAIN,2022,12,UNITED ARAB EMIRATES,Delayed employment initiation,0
+677,5941279296001, LuminaX,BAHRAIN,2022,12,UNITED ARAB EMIRATES,Delayed earnings adjustment,5
+678,5941279296001, LuminaX,BAHRAIN,2022,12,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,2
+679,5941279296001, LuminaX,BAHRAIN,2022,12,UNITED ARAB EMIRATES,Delayed employment terminations,4
+680,5941279296001, LuminaX,BAHRAIN,2022,12,INDIA,Delete employment period,4
+681,5941279296001, LuminaX,BAHRAIN,2022,12,INDIA,Delayed employment initiation,4
+682,5941279296001, LuminaX,BAHRAIN,2022,12,INDIA,Delayed earnings adjustment,3
+683,5941279296001, LuminaX,BAHRAIN,2022,12,INDIA,Delayed Start or end date adjustment,1
+684,5941279296001, LuminaX,BAHRAIN,2022,12,INDIA,Delayed employment terminations,5
+685,5941279296001, LuminaX,BAHRAIN,2022,12,KUWAIT,Delete employment period,5
+686,5941279296001, LuminaX,BAHRAIN,2022,12,KUWAIT,Delayed employment initiation,1
+687,5941279296001, LuminaX,BAHRAIN,2022,12,KUWAIT,Delayed earnings adjustment,5
+688,5941279296001, LuminaX,BAHRAIN,2022,12,KUWAIT,Delayed Start or end date adjustment,2
+689,5941279296001, LuminaX,BAHRAIN,2022,12,KUWAIT,Delayed employment terminations,5
+690,5941279296001, LuminaX,BAHRAIN,2022,12,OMAN,Delete employment period,5
+691,5941279296001, LuminaX,BAHRAIN,2022,12,OMAN,Delayed employment initiation,2
+692,5941279296001, LuminaX,BAHRAIN,2022,12,OMAN,Delayed earnings adjustment,1
+693,5941279296001, LuminaX,BAHRAIN,2022,12,OMAN,Delayed Start or end date adjustment,4
+694,5941279296001, LuminaX,BAHRAIN,2022,12,OMAN,Delayed employment terminations,5
+695,5941279296001, LuminaX,BAHRAIN,2022,12,PAKISTAN,Delete employment period,0
+696,5941279296001, LuminaX,BAHRAIN,2022,12,PAKISTAN,Delayed employment initiation,4
+697,5941279296001, LuminaX,BAHRAIN,2022,12,PAKISTAN,Delayed earnings adjustment,3
+698,5941279296001, LuminaX,BAHRAIN,2022,12,PAKISTAN,Delayed Start or end date adjustment,2
+699,5941279296001, LuminaX,BAHRAIN,2022,12,PAKISTAN,Delayed employment terminations,5
+700,5941279296001, LuminaX,BAHRAIN,2022,12,PHILIPPINES,Delete employment period,4
+701,5941279296001, LuminaX,BAHRAIN,2022,12,PHILIPPINES,Delayed employment initiation,4
+702,5941279296001, LuminaX,BAHRAIN,2022,12,PHILIPPINES,Delayed earnings adjustment,1
+703,5941279296001, LuminaX,BAHRAIN,2022,12,PHILIPPINES,Delayed Start or end date adjustment,2
+704,5941279296001, LuminaX,BAHRAIN,2022,12,PHILIPPINES,Delayed employment terminations,1
+705,5941279296001, LuminaX,BAHRAIN,2022,12,QATAR,Delete employment period,5
+706,5941279296001, LuminaX,BAHRAIN,2022,12,QATAR,Delayed employment initiation,0
+707,5941279296001, LuminaX,BAHRAIN,2022,12,QATAR,Delayed earnings adjustment,0
+708,5941279296001, LuminaX,BAHRAIN,2022,12,QATAR,Delayed Start or end date adjustment,3
+709,5941279296001, LuminaX,BAHRAIN,2022,12,QATAR,Delayed employment terminations,0
+710,5941279296001, LuminaX,BAHRAIN,2022,12,SAUDI ARABIA,Delete employment period,0
+711,5941279296001, LuminaX,BAHRAIN,2022,12,SAUDI ARABIA,Delayed employment initiation,3
+712,5941279296001, LuminaX,BAHRAIN,2022,12,SAUDI ARABIA,Delayed earnings adjustment,4
+713,5941279296001, LuminaX,BAHRAIN,2022,12,SAUDI ARABIA,Delayed Start or end date adjustment,5
+714,5941279296001, LuminaX,BAHRAIN,2022,12,SAUDI ARABIA,Delayed employment terminations,5
+715,5941279296001, LuminaX,BAHRAIN,2022,12,BANGLADESH,Delete employment period,2
+716,5941279296001, LuminaX,BAHRAIN,2022,12,BANGLADESH,Delayed employment initiation,2
+717,5941279296001, LuminaX,BAHRAIN,2022,12,BANGLADESH,Delayed earnings adjustment,4
+718,5941279296001, LuminaX,BAHRAIN,2022,12,BANGLADESH,Delayed Start or end date adjustment,5
+719,5941279296001, LuminaX,BAHRAIN,2022,12,BANGLADESH,Delayed employment terminations,3
+720,5941279296001, LuminaX,BAHRAIN,2023,1,BAHRAIN,Delete employment period,3
+721,5941279296001, LuminaX,BAHRAIN,2023,1,BAHRAIN,Delayed employment initiation,5
+722,5941279296001, LuminaX,BAHRAIN,2023,1,BAHRAIN,Delayed earnings adjustment,5
+723,5941279296001, LuminaX,BAHRAIN,2023,1,BAHRAIN,Delayed Start or end date adjustment,4
+724,5941279296001, LuminaX,BAHRAIN,2023,1,BAHRAIN,Delayed employment terminations,0
+725,5941279296001, LuminaX,BAHRAIN,2023,1,UNITED ARAB EMIRATES,Delete employment period,4
+726,5941279296001, LuminaX,BAHRAIN,2023,1,UNITED ARAB EMIRATES,Delayed employment initiation,0
+727,5941279296001, LuminaX,BAHRAIN,2023,1,UNITED ARAB EMIRATES,Delayed earnings adjustment,2
+728,5941279296001, LuminaX,BAHRAIN,2023,1,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,3
+729,5941279296001, LuminaX,BAHRAIN,2023,1,UNITED ARAB EMIRATES,Delayed employment terminations,0
+730,5941279296001, LuminaX,BAHRAIN,2023,1,INDIA,Delete employment period,5
+731,5941279296001, LuminaX,BAHRAIN,2023,1,INDIA,Delayed employment initiation,1
+732,5941279296001, LuminaX,BAHRAIN,2023,1,INDIA,Delayed earnings adjustment,5
+733,5941279296001, LuminaX,BAHRAIN,2023,1,INDIA,Delayed Start or end date adjustment,3
+734,5941279296001, LuminaX,BAHRAIN,2023,1,INDIA,Delayed employment terminations,1
+735,5941279296001, LuminaX,BAHRAIN,2023,1,KUWAIT,Delete employment period,5
+736,5941279296001, LuminaX,BAHRAIN,2023,1,KUWAIT,Delayed employment initiation,5
+737,5941279296001, LuminaX,BAHRAIN,2023,1,KUWAIT,Delayed earnings adjustment,5
+738,5941279296001, LuminaX,BAHRAIN,2023,1,KUWAIT,Delayed Start or end date adjustment,0
+739,5941279296001, LuminaX,BAHRAIN,2023,1,KUWAIT,Delayed employment terminations,2
+740,5941279296001, LuminaX,BAHRAIN,2023,1,OMAN,Delete employment period,5
+741,5941279296001, LuminaX,BAHRAIN,2023,1,OMAN,Delayed employment initiation,0
+742,5941279296001, LuminaX,BAHRAIN,2023,1,OMAN,Delayed earnings adjustment,0
+743,5941279296001, LuminaX,BAHRAIN,2023,1,OMAN,Delayed Start or end date adjustment,5
+744,5941279296001, LuminaX,BAHRAIN,2023,1,OMAN,Delayed employment terminations,5
+745,5941279296001, LuminaX,BAHRAIN,2023,1,PAKISTAN,Delete employment period,5
+746,5941279296001, LuminaX,BAHRAIN,2023,1,PAKISTAN,Delayed employment initiation,2
+747,5941279296001, LuminaX,BAHRAIN,2023,1,PAKISTAN,Delayed earnings adjustment,2
+748,5941279296001, LuminaX,BAHRAIN,2023,1,PAKISTAN,Delayed Start or end date adjustment,2
+749,5941279296001, LuminaX,BAHRAIN,2023,1,PAKISTAN,Delayed employment terminations,3
+750,5941279296001, LuminaX,BAHRAIN,2023,1,PHILIPPINES,Delete employment period,3
+751,5941279296001, LuminaX,BAHRAIN,2023,1,PHILIPPINES,Delayed employment initiation,3
+752,5941279296001, LuminaX,BAHRAIN,2023,1,PHILIPPINES,Delayed earnings adjustment,3
+753,5941279296001, LuminaX,BAHRAIN,2023,1,PHILIPPINES,Delayed Start or end date adjustment,4
+754,5941279296001, LuminaX,BAHRAIN,2023,1,PHILIPPINES,Delayed employment terminations,5
+755,5941279296001, LuminaX,BAHRAIN,2023,1,QATAR,Delete employment period,1
+756,5941279296001, LuminaX,BAHRAIN,2023,1,QATAR,Delayed employment initiation,4
+757,5941279296001, LuminaX,BAHRAIN,2023,1,QATAR,Delayed earnings adjustment,5
+758,5941279296001, LuminaX,BAHRAIN,2023,1,QATAR,Delayed Start or end date adjustment,2
+759,5941279296001, LuminaX,BAHRAIN,2023,1,QATAR,Delayed employment terminations,1
+760,5941279296001, LuminaX,BAHRAIN,2023,1,SAUDI ARABIA,Delete employment period,2
+761,5941279296001, LuminaX,BAHRAIN,2023,1,SAUDI ARABIA,Delayed employment initiation,3
+762,5941279296001, LuminaX,BAHRAIN,2023,1,SAUDI ARABIA,Delayed earnings adjustment,4
+763,5941279296001, LuminaX,BAHRAIN,2023,1,SAUDI ARABIA,Delayed Start or end date adjustment,1
+764,5941279296001, LuminaX,BAHRAIN,2023,1,SAUDI ARABIA,Delayed employment terminations,1
+765,5941279296001, LuminaX,BAHRAIN,2023,1,BANGLADESH,Delete employment period,0
+766,5941279296001, LuminaX,BAHRAIN,2023,1,BANGLADESH,Delayed employment initiation,2
+767,5941279296001, LuminaX,BAHRAIN,2023,1,BANGLADESH,Delayed earnings adjustment,2
+768,5941279296001, LuminaX,BAHRAIN,2023,1,BANGLADESH,Delayed Start or end date adjustment,0
+769,5941279296001, LuminaX,BAHRAIN,2023,1,BANGLADESH,Delayed employment terminations,4
+770,5941279296001, LuminaX,BAHRAIN,2023,2,BAHRAIN,Delete employment period,1
+771,5941279296001, LuminaX,BAHRAIN,2023,2,BAHRAIN,Delayed employment initiation,3
+772,5941279296001, LuminaX,BAHRAIN,2023,2,BAHRAIN,Delayed earnings adjustment,3
+773,5941279296001, LuminaX,BAHRAIN,2023,2,BAHRAIN,Delayed Start or end date adjustment,4
+774,5941279296001, LuminaX,BAHRAIN,2023,2,BAHRAIN,Delayed employment terminations,2
+775,5941279296001, LuminaX,BAHRAIN,2023,2,UNITED ARAB EMIRATES,Delete employment period,1
+776,5941279296001, LuminaX,BAHRAIN,2023,2,UNITED ARAB EMIRATES,Delayed employment initiation,3
+777,5941279296001, LuminaX,BAHRAIN,2023,2,UNITED ARAB EMIRATES,Delayed earnings adjustment,3
+778,5941279296001, LuminaX,BAHRAIN,2023,2,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,0
+779,5941279296001, LuminaX,BAHRAIN,2023,2,UNITED ARAB EMIRATES,Delayed employment terminations,1
+780,5941279296001, LuminaX,BAHRAIN,2023,2,INDIA,Delete employment period,1
+781,5941279296001, LuminaX,BAHRAIN,2023,2,INDIA,Delayed employment initiation,5
+782,5941279296001, LuminaX,BAHRAIN,2023,2,INDIA,Delayed earnings adjustment,3
+783,5941279296001, LuminaX,BAHRAIN,2023,2,INDIA,Delayed Start or end date adjustment,0
+784,5941279296001, LuminaX,BAHRAIN,2023,2,INDIA,Delayed employment terminations,0
+785,5941279296001, LuminaX,BAHRAIN,2023,2,KUWAIT,Delete employment period,2
+786,5941279296001, LuminaX,BAHRAIN,2023,2,KUWAIT,Delayed employment initiation,2
+787,5941279296001, LuminaX,BAHRAIN,2023,2,KUWAIT,Delayed earnings adjustment,5
+788,5941279296001, LuminaX,BAHRAIN,2023,2,KUWAIT,Delayed Start or end date adjustment,0
+789,5941279296001, LuminaX,BAHRAIN,2023,2,KUWAIT,Delayed employment terminations,0
+790,5941279296001, LuminaX,BAHRAIN,2023,2,OMAN,Delete employment period,3
+791,5941279296001, LuminaX,BAHRAIN,2023,2,OMAN,Delayed employment initiation,5
+792,5941279296001, LuminaX,BAHRAIN,2023,2,OMAN,Delayed earnings adjustment,1
+793,5941279296001, LuminaX,BAHRAIN,2023,2,OMAN,Delayed Start or end date adjustment,4
+794,5941279296001, LuminaX,BAHRAIN,2023,2,OMAN,Delayed employment terminations,0
+795,5941279296001, LuminaX,BAHRAIN,2023,2,PAKISTAN,Delete employment period,4
+796,5941279296001, LuminaX,BAHRAIN,2023,2,PAKISTAN,Delayed employment initiation,3
+797,5941279296001, LuminaX,BAHRAIN,2023,2,PAKISTAN,Delayed earnings adjustment,4
+798,5941279296001, LuminaX,BAHRAIN,2023,2,PAKISTAN,Delayed Start or end date adjustment,4
+799,5941279296001, LuminaX,BAHRAIN,2023,2,PAKISTAN,Delayed employment terminations,4
+800,5941279296001, LuminaX,BAHRAIN,2023,2,PHILIPPINES,Delete employment period,0
+801,5941279296001, LuminaX,BAHRAIN,2023,2,PHILIPPINES,Delayed employment initiation,5
+802,5941279296001, LuminaX,BAHRAIN,2023,2,PHILIPPINES,Delayed earnings adjustment,1
+803,5941279296001, LuminaX,BAHRAIN,2023,2,PHILIPPINES,Delayed Start or end date adjustment,3
+804,5941279296001, LuminaX,BAHRAIN,2023,2,PHILIPPINES,Delayed employment terminations,0
+805,5941279296001, LuminaX,BAHRAIN,2023,2,QATAR,Delete employment period,3
+806,5941279296001, LuminaX,BAHRAIN,2023,2,QATAR,Delayed employment initiation,1
+807,5941279296001, LuminaX,BAHRAIN,2023,2,QATAR,Delayed earnings adjustment,3
+808,5941279296001, LuminaX,BAHRAIN,2023,2,QATAR,Delayed Start or end date adjustment,2
+809,5941279296001, LuminaX,BAHRAIN,2023,2,QATAR,Delayed employment terminations,2
+810,5941279296001, LuminaX,BAHRAIN,2023,2,SAUDI ARABIA,Delete employment period,4
+811,5941279296001, LuminaX,BAHRAIN,2023,2,SAUDI ARABIA,Delayed employment initiation,3
+812,5941279296001, LuminaX,BAHRAIN,2023,2,SAUDI ARABIA,Delayed earnings adjustment,4
+813,5941279296001, LuminaX,BAHRAIN,2023,2,SAUDI ARABIA,Delayed Start or end date adjustment,2
+814,5941279296001, LuminaX,BAHRAIN,2023,2,SAUDI ARABIA,Delayed employment terminations,5
+815,5941279296001, LuminaX,BAHRAIN,2023,2,BANGLADESH,Delete employment period,5
+816,5941279296001, LuminaX,BAHRAIN,2023,2,BANGLADESH,Delayed employment initiation,1
+817,5941279296001, LuminaX,BAHRAIN,2023,2,BANGLADESH,Delayed earnings adjustment,4
+818,5941279296001, LuminaX,BAHRAIN,2023,2,BANGLADESH,Delayed Start or end date adjustment,5
+819,5941279296001, LuminaX,BAHRAIN,2023,2,BANGLADESH,Delayed employment terminations,2
+820,5941279296001, LuminaX,BAHRAIN,2023,3,BAHRAIN,Delete employment period,3
+821,5941279296001, LuminaX,BAHRAIN,2023,3,BAHRAIN,Delayed employment initiation,3
+822,5941279296001, LuminaX,BAHRAIN,2023,3,BAHRAIN,Delayed earnings adjustment,4
+823,5941279296001, LuminaX,BAHRAIN,2023,3,BAHRAIN,Delayed Start or end date adjustment,5
+824,5941279296001, LuminaX,BAHRAIN,2023,3,BAHRAIN,Delayed employment terminations,4
+825,5941279296001, LuminaX,BAHRAIN,2023,3,UNITED ARAB EMIRATES,Delete employment period,5
+826,5941279296001, LuminaX,BAHRAIN,2023,3,UNITED ARAB EMIRATES,Delayed employment initiation,2
+827,5941279296001, LuminaX,BAHRAIN,2023,3,UNITED ARAB EMIRATES,Delayed earnings adjustment,0
+828,5941279296001, LuminaX,BAHRAIN,2023,3,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,4
+829,5941279296001, LuminaX,BAHRAIN,2023,3,UNITED ARAB EMIRATES,Delayed employment terminations,2
+830,5941279296001, LuminaX,BAHRAIN,2023,3,INDIA,Delete employment period,1
+831,5941279296001, LuminaX,BAHRAIN,2023,3,INDIA,Delayed employment initiation,4
+832,5941279296001, LuminaX,BAHRAIN,2023,3,INDIA,Delayed earnings adjustment,2
+833,5941279296001, LuminaX,BAHRAIN,2023,3,INDIA,Delayed Start or end date adjustment,5
+834,5941279296001, LuminaX,BAHRAIN,2023,3,INDIA,Delayed employment terminations,1
+835,5941279296001, LuminaX,BAHRAIN,2023,3,KUWAIT,Delete employment period,4
+836,5941279296001, LuminaX,BAHRAIN,2023,3,KUWAIT,Delayed employment initiation,0
+837,5941279296001, LuminaX,BAHRAIN,2023,3,KUWAIT,Delayed earnings adjustment,3
+838,5941279296001, LuminaX,BAHRAIN,2023,3,KUWAIT,Delayed Start or end date adjustment,0
+839,5941279296001, LuminaX,BAHRAIN,2023,3,KUWAIT,Delayed employment terminations,4
+840,5941279296001, LuminaX,BAHRAIN,2023,3,OMAN,Delete employment period,0
+841,5941279296001, LuminaX,BAHRAIN,2023,3,OMAN,Delayed employment initiation,0
+842,5941279296001, LuminaX,BAHRAIN,2023,3,OMAN,Delayed earnings adjustment,5
+843,5941279296001, LuminaX,BAHRAIN,2023,3,OMAN,Delayed Start or end date adjustment,0
+844,5941279296001, LuminaX,BAHRAIN,2023,3,OMAN,Delayed employment terminations,5
+845,5941279296001, LuminaX,BAHRAIN,2023,3,PAKISTAN,Delete employment period,1
+846,5941279296001, LuminaX,BAHRAIN,2023,3,PAKISTAN,Delayed employment initiation,5
+847,5941279296001, LuminaX,BAHRAIN,2023,3,PAKISTAN,Delayed earnings adjustment,4
+848,5941279296001, LuminaX,BAHRAIN,2023,3,PAKISTAN,Delayed Start or end date adjustment,3
+849,5941279296001, LuminaX,BAHRAIN,2023,3,PAKISTAN,Delayed employment terminations,1
+850,5941279296001, LuminaX,BAHRAIN,2023,3,PHILIPPINES,Delete employment period,2
+851,5941279296001, LuminaX,BAHRAIN,2023,3,PHILIPPINES,Delayed employment initiation,3
+852,5941279296001, LuminaX,BAHRAIN,2023,3,PHILIPPINES,Delayed earnings adjustment,4
+853,5941279296001, LuminaX,BAHRAIN,2023,3,PHILIPPINES,Delayed Start or end date adjustment,1
+854,5941279296001, LuminaX,BAHRAIN,2023,3,PHILIPPINES,Delayed employment terminations,2
+855,5941279296001, LuminaX,BAHRAIN,2023,3,QATAR,Delete employment period,3
+856,5941279296001, LuminaX,BAHRAIN,2023,3,QATAR,Delayed employment initiation,1
+857,5941279296001, LuminaX,BAHRAIN,2023,3,QATAR,Delayed earnings adjustment,1
+858,5941279296001, LuminaX,BAHRAIN,2023,3,QATAR,Delayed Start or end date adjustment,0
+859,5941279296001, LuminaX,BAHRAIN,2023,3,QATAR,Delayed employment terminations,0
+860,5941279296001, LuminaX,BAHRAIN,2023,3,SAUDI ARABIA,Delete employment period,3
+861,5941279296001, LuminaX,BAHRAIN,2023,3,SAUDI ARABIA,Delayed employment initiation,2
+862,5941279296001, LuminaX,BAHRAIN,2023,3,SAUDI ARABIA,Delayed earnings adjustment,4
+863,5941279296001, LuminaX,BAHRAIN,2023,3,SAUDI ARABIA,Delayed Start or end date adjustment,2
+864,5941279296001, LuminaX,BAHRAIN,2023,3,SAUDI ARABIA,Delayed employment terminations,0
+865,5941279296001, LuminaX,BAHRAIN,2023,3,BANGLADESH,Delete employment period,5
+866,5941279296001, LuminaX,BAHRAIN,2023,3,BANGLADESH,Delayed employment initiation,0
+867,5941279296001, LuminaX,BAHRAIN,2023,3,BANGLADESH,Delayed earnings adjustment,3
+868,5941279296001, LuminaX,BAHRAIN,2023,3,BANGLADESH,Delayed Start or end date adjustment,1
+869,5941279296001, LuminaX,BAHRAIN,2023,3,BANGLADESH,Delayed employment terminations,1
+870,5941279296001, LuminaX,BAHRAIN,2023,4,BAHRAIN,Delete employment period,3
+871,5941279296001, LuminaX,BAHRAIN,2023,4,BAHRAIN,Delayed employment initiation,0
+872,5941279296001, LuminaX,BAHRAIN,2023,4,BAHRAIN,Delayed earnings adjustment,5
+873,5941279296001, LuminaX,BAHRAIN,2023,4,BAHRAIN,Delayed Start or end date adjustment,3
+874,5941279296001, LuminaX,BAHRAIN,2023,4,BAHRAIN,Delayed employment terminations,3
+875,5941279296001, LuminaX,BAHRAIN,2023,4,UNITED ARAB EMIRATES,Delete employment period,1
+876,5941279296001, LuminaX,BAHRAIN,2023,4,UNITED ARAB EMIRATES,Delayed employment initiation,5
+877,5941279296001, LuminaX,BAHRAIN,2023,4,UNITED ARAB EMIRATES,Delayed earnings adjustment,1
+878,5941279296001, LuminaX,BAHRAIN,2023,4,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,3
+879,5941279296001, LuminaX,BAHRAIN,2023,4,UNITED ARAB EMIRATES,Delayed employment terminations,4
+880,5941279296001, LuminaX,BAHRAIN,2023,4,INDIA,Delete employment period,3
+881,5941279296001, LuminaX,BAHRAIN,2023,4,INDIA,Delayed employment initiation,0
+882,5941279296001, LuminaX,BAHRAIN,2023,4,INDIA,Delayed earnings adjustment,1
+883,5941279296001, LuminaX,BAHRAIN,2023,4,INDIA,Delayed Start or end date adjustment,2
+884,5941279296001, LuminaX,BAHRAIN,2023,4,INDIA,Delayed employment terminations,4
+885,5941279296001, LuminaX,BAHRAIN,2023,4,KUWAIT,Delete employment period,2
+886,5941279296001, LuminaX,BAHRAIN,2023,4,KUWAIT,Delayed employment initiation,1
+887,5941279296001, LuminaX,BAHRAIN,2023,4,KUWAIT,Delayed earnings adjustment,2
+888,5941279296001, LuminaX,BAHRAIN,2023,4,KUWAIT,Delayed Start or end date adjustment,2
+889,5941279296001, LuminaX,BAHRAIN,2023,4,KUWAIT,Delayed employment terminations,4
+890,5941279296001, LuminaX,BAHRAIN,2023,4,OMAN,Delete employment period,2
+891,5941279296001, LuminaX,BAHRAIN,2023,4,OMAN,Delayed employment initiation,1
+892,5941279296001, LuminaX,BAHRAIN,2023,4,OMAN,Delayed earnings adjustment,4
+893,5941279296001, LuminaX,BAHRAIN,2023,4,OMAN,Delayed Start or end date adjustment,1
+894,5941279296001, LuminaX,BAHRAIN,2023,4,OMAN,Delayed employment terminations,3
+895,5941279296001, LuminaX,BAHRAIN,2023,4,PAKISTAN,Delete employment period,2
+896,5941279296001, LuminaX,BAHRAIN,2023,4,PAKISTAN,Delayed employment initiation,5
+897,5941279296001, LuminaX,BAHRAIN,2023,4,PAKISTAN,Delayed earnings adjustment,1
+898,5941279296001, LuminaX,BAHRAIN,2023,4,PAKISTAN,Delayed Start or end date adjustment,0
+899,5941279296001, LuminaX,BAHRAIN,2023,4,PAKISTAN,Delayed employment terminations,0
+900,5941279296001, LuminaX,BAHRAIN,2023,4,PHILIPPINES,Delete employment period,1
+901,5941279296001, LuminaX,BAHRAIN,2023,4,PHILIPPINES,Delayed employment initiation,1
+902,5941279296001, LuminaX,BAHRAIN,2023,4,PHILIPPINES,Delayed earnings adjustment,1
+903,5941279296001, LuminaX,BAHRAIN,2023,4,PHILIPPINES,Delayed Start or end date adjustment,2
+904,5941279296001, LuminaX,BAHRAIN,2023,4,PHILIPPINES,Delayed employment terminations,3
+905,5941279296001, LuminaX,BAHRAIN,2023,4,QATAR,Delete employment period,4
+906,5941279296001, LuminaX,BAHRAIN,2023,4,QATAR,Delayed employment initiation,4
+907,5941279296001, LuminaX,BAHRAIN,2023,4,QATAR,Delayed earnings adjustment,5
+908,5941279296001, LuminaX,BAHRAIN,2023,4,QATAR,Delayed Start or end date adjustment,4
+909,5941279296001, LuminaX,BAHRAIN,2023,4,QATAR,Delayed employment terminations,2
+910,5941279296001, LuminaX,BAHRAIN,2023,4,SAUDI ARABIA,Delete employment period,4
+911,5941279296001, LuminaX,BAHRAIN,2023,4,SAUDI ARABIA,Delayed employment initiation,4
+912,5941279296001, LuminaX,BAHRAIN,2023,4,SAUDI ARABIA,Delayed earnings adjustment,2
+913,5941279296001, LuminaX,BAHRAIN,2023,4,SAUDI ARABIA,Delayed Start or end date adjustment,2
+914,5941279296001, LuminaX,BAHRAIN,2023,4,SAUDI ARABIA,Delayed employment terminations,5
+915,5941279296001, LuminaX,BAHRAIN,2023,4,BANGLADESH,Delete employment period,0
+916,5941279296001, LuminaX,BAHRAIN,2023,4,BANGLADESH,Delayed employment initiation,2
+917,5941279296001, LuminaX,BAHRAIN,2023,4,BANGLADESH,Delayed earnings adjustment,3
+918,5941279296001, LuminaX,BAHRAIN,2023,4,BANGLADESH,Delayed Start or end date adjustment,2
+919,5941279296001, LuminaX,BAHRAIN,2023,4,BANGLADESH,Delayed employment terminations,5
+920,5941279296001, LuminaX,BAHRAIN,2023,5,BAHRAIN,Delete employment period,1
+921,5941279296001, LuminaX,BAHRAIN,2023,5,BAHRAIN,Delayed employment initiation,0
+922,5941279296001, LuminaX,BAHRAIN,2023,5,BAHRAIN,Delayed earnings adjustment,0
+923,5941279296001, LuminaX,BAHRAIN,2023,5,BAHRAIN,Delayed Start or end date adjustment,4
+924,5941279296001, LuminaX,BAHRAIN,2023,5,BAHRAIN,Delayed employment terminations,5
+925,5941279296001, LuminaX,BAHRAIN,2023,5,UNITED ARAB EMIRATES,Delete employment period,2
+926,5941279296001, LuminaX,BAHRAIN,2023,5,UNITED ARAB EMIRATES,Delayed employment initiation,3
+927,5941279296001, LuminaX,BAHRAIN,2023,5,UNITED ARAB EMIRATES,Delayed earnings adjustment,1
+928,5941279296001, LuminaX,BAHRAIN,2023,5,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,5
+929,5941279296001, LuminaX,BAHRAIN,2023,5,UNITED ARAB EMIRATES,Delayed employment terminations,1
+930,5941279296001, LuminaX,BAHRAIN,2023,5,INDIA,Delete employment period,5
+931,5941279296001, LuminaX,BAHRAIN,2023,5,INDIA,Delayed employment initiation,1
+932,5941279296001, LuminaX,BAHRAIN,2023,5,INDIA,Delayed earnings adjustment,4
+933,5941279296001, LuminaX,BAHRAIN,2023,5,INDIA,Delayed Start or end date adjustment,3
+934,5941279296001, LuminaX,BAHRAIN,2023,5,INDIA,Delayed employment terminations,5
+935,5941279296001, LuminaX,BAHRAIN,2023,5,KUWAIT,Delete employment period,1
+936,5941279296001, LuminaX,BAHRAIN,2023,5,KUWAIT,Delayed employment initiation,5
+937,5941279296001, LuminaX,BAHRAIN,2023,5,KUWAIT,Delayed earnings adjustment,0
+938,5941279296001, LuminaX,BAHRAIN,2023,5,KUWAIT,Delayed Start or end date adjustment,4
+939,5941279296001, LuminaX,BAHRAIN,2023,5,KUWAIT,Delayed employment terminations,2
+940,5941279296001, LuminaX,BAHRAIN,2023,5,OMAN,Delete employment period,3
+941,5941279296001, LuminaX,BAHRAIN,2023,5,OMAN,Delayed employment initiation,1
+942,5941279296001, LuminaX,BAHRAIN,2023,5,OMAN,Delayed earnings adjustment,3
+943,5941279296001, LuminaX,BAHRAIN,2023,5,OMAN,Delayed Start or end date adjustment,4
+944,5941279296001, LuminaX,BAHRAIN,2023,5,OMAN,Delayed employment terminations,0
+945,5941279296001, LuminaX,BAHRAIN,2023,5,PAKISTAN,Delete employment period,3
+946,5941279296001, LuminaX,BAHRAIN,2023,5,PAKISTAN,Delayed employment initiation,1
+947,5941279296001, LuminaX,BAHRAIN,2023,5,PAKISTAN,Delayed earnings adjustment,1
+948,5941279296001, LuminaX,BAHRAIN,2023,5,PAKISTAN,Delayed Start or end date adjustment,5
+949,5941279296001, LuminaX,BAHRAIN,2023,5,PAKISTAN,Delayed employment terminations,5
+950,5941279296001, LuminaX,BAHRAIN,2023,5,PHILIPPINES,Delete employment period,0
+951,5941279296001, LuminaX,BAHRAIN,2023,5,PHILIPPINES,Delayed employment initiation,1
+952,5941279296001, LuminaX,BAHRAIN,2023,5,PHILIPPINES,Delayed earnings adjustment,2
+953,5941279296001, LuminaX,BAHRAIN,2023,5,PHILIPPINES,Delayed Start or end date adjustment,3
+954,5941279296001, LuminaX,BAHRAIN,2023,5,PHILIPPINES,Delayed employment terminations,5
+955,5941279296001, LuminaX,BAHRAIN,2023,5,QATAR,Delete employment period,0
+956,5941279296001, LuminaX,BAHRAIN,2023,5,QATAR,Delayed employment initiation,1
+957,5941279296001, LuminaX,BAHRAIN,2023,5,QATAR,Delayed earnings adjustment,2
+958,5941279296001, LuminaX,BAHRAIN,2023,5,QATAR,Delayed Start or end date adjustment,3
+959,5941279296001, LuminaX,BAHRAIN,2023,5,QATAR,Delayed employment terminations,4
+960,5941279296001, LuminaX,BAHRAIN,2023,5,SAUDI ARABIA,Delete employment period,1
+961,5941279296001, LuminaX,BAHRAIN,2023,5,SAUDI ARABIA,Delayed employment initiation,2
+962,5941279296001, LuminaX,BAHRAIN,2023,5,SAUDI ARABIA,Delayed earnings adjustment,3
+963,5941279296001, LuminaX,BAHRAIN,2023,5,SAUDI ARABIA,Delayed Start or end date adjustment,4
+964,5941279296001, LuminaX,BAHRAIN,2023,5,SAUDI ARABIA,Delayed employment terminations,0
+965,5941279296001, LuminaX,BAHRAIN,2023,5,BANGLADESH,Delete employment period,5
+966,5941279296001, LuminaX,BAHRAIN,2023,5,BANGLADESH,Delayed employment initiation,3
+967,5941279296001, LuminaX,BAHRAIN,2023,5,BANGLADESH,Delayed earnings adjustment,5
+968,5941279296001, LuminaX,BAHRAIN,2023,5,BANGLADESH,Delayed Start or end date adjustment,5
+969,5941279296001, LuminaX,BAHRAIN,2023,5,BANGLADESH,Delayed employment terminations,0
+970,5941279296001, LuminaX,BAHRAIN,2023,6,BAHRAIN,Delete employment period,5
+971,5941279296001, LuminaX,BAHRAIN,2023,6,BAHRAIN,Delayed employment initiation,5
+972,5941279296001, LuminaX,BAHRAIN,2023,6,BAHRAIN,Delayed earnings adjustment,1
+973,5941279296001, LuminaX,BAHRAIN,2023,6,BAHRAIN,Delayed Start or end date adjustment,0
+974,5941279296001, LuminaX,BAHRAIN,2023,6,BAHRAIN,Delayed employment terminations,3
+975,5941279296001, LuminaX,BAHRAIN,2023,6,UNITED ARAB EMIRATES,Delete employment period,0
+976,5941279296001, LuminaX,BAHRAIN,2023,6,UNITED ARAB EMIRATES,Delayed employment initiation,1
+977,5941279296001, LuminaX,BAHRAIN,2023,6,UNITED ARAB EMIRATES,Delayed earnings adjustment,4
+978,5941279296001, LuminaX,BAHRAIN,2023,6,UNITED ARAB EMIRATES,Delayed Start or end date adjustment,4
+979,5941279296001, LuminaX,BAHRAIN,2023,6,UNITED ARAB EMIRATES,Delayed employment terminations,4
+980,5941279296001, LuminaX,BAHRAIN,2023,6,INDIA,Delete employment period,2
+981,5941279296001, LuminaX,BAHRAIN,2023,6,INDIA,Delayed employment initiation,5
+982,5941279296001, LuminaX,BAHRAIN,2023,6,INDIA,Delayed earnings adjustment,5
+983,5941279296001, LuminaX,BAHRAIN,2023,6,INDIA,Delayed Start or end date adjustment,0
+984,5941279296001, LuminaX,BAHRAIN,2023,6,INDIA,Delayed employment terminations,0
+985,5941279296001, LuminaX,BAHRAIN,2023,6,KUWAIT,Delete employment period,0
+986,5941279296001, LuminaX,BAHRAIN,2023,6,KUWAIT,Delayed employment initiation,1
+987,5941279296001, LuminaX,BAHRAIN,2023,6,KUWAIT,Delayed earnings adjustment,0
+988,5941279296001, LuminaX,BAHRAIN,2023,6,KUWAIT,Delayed Start or end date adjustment,3
+989,5941279296001, LuminaX,BAHRAIN,2023,6,KUWAIT,Delayed employment terminations,3
+990,5941279296001, LuminaX,BAHRAIN,2023,6,OMAN,Delete employment period,1
+991,5941279296001, LuminaX,BAHRAIN,2023,6,OMAN,Delayed employment initiation,3
+992,5941279296001, LuminaX,BAHRAIN,2023,6,OMAN,Delayed earnings adjustment,2
+993,5941279296001, LuminaX,BAHRAIN,2023,6,OMAN,Delayed Start or end date adjustment,0
+994,5941279296001, LuminaX,BAHRAIN,2023,6,OMAN,Delayed employment terminations,2
+995,5941279296001, LuminaX,BAHRAIN,2023,6,PAKISTAN,Delete employment period,5
+996,5941279296001, LuminaX,BAHRAIN,2023,6,PAKISTAN,Delayed employment initiation,5
+997,5941279296001, LuminaX,BAHRAIN,2023,6,PAKISTAN,Delayed earnings adjustment,3
+998,5941279296001, LuminaX,BAHRAIN,2023,6,PAKISTAN,Delayed Start or end date adjustment,5
